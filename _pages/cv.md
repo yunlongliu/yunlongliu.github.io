@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} [pdf](./files/CV - Anji Liu.pdf)
+[pdf](./files/CV - Anji Liu.pdf)
 
 Education
 ======

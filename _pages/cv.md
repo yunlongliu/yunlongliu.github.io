@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[pdf](https://liuanji.github.io/files/CV - Anji Liu.pdf)
+[pdf](https://liuanji.github.io/files/cv.pdf)
 
 Education
 ======

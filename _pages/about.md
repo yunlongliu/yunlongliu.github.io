@@ -47,3 +47,6 @@ Research projects
 * **Research on Improving Fully Connected Neural Networks**
 
     Studied the fundamentals of neural networks and programmed a neural network package from scratch in MATLAB. The package contains most commonly used layers in neural networks and it is easy to modify. Proposed a balance gate controlled neural network that out-performs traditional fully-connected neural network in both regression tasks and classification tasks.
+
+Publications
+======

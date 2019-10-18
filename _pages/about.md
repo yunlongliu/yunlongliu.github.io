@@ -14,15 +14,17 @@ Education
 ======
 * **Beihang University** School of Automation Science and Electrical Engineering
 
-Bachler of Science in Automation, Sep. 2015 - Jun. 2019
+    Bachler of Science in Automation, Sep. 2015 - Jun. 2019
 
 Experience
 ======
 * **StarAI Lab, UCLA**
-Visiting researcher, Aug. 2019 - Present.
+
+    Visiting researcher, Aug. 2019 - Present.
 
 * **Seattle AI Lab, Kwai Inc.**
-Research intern, Dec. 2018 - Jul. 2019
+
+    Research intern, Dec. 2018 - Jul. 2019
 
 Research proposal
 ======

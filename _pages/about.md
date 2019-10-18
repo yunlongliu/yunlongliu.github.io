@@ -32,4 +32,18 @@ I am broadly interested in
 
 Research projects
 ======
+* **Research on Parallelizing Monte Carlo Tree Search**
 
+    Designed a novel parallelization algorithm for Monte Carlo Tree Search as well as a practical system implementation to achieve linear speed up while suffering negligible performance degradation. The key idea is to make use of the information from unobserved samples to guide the node selection process in the tree search.
+    
+* **Research on Exploration Strategy of Continuous Control Tasks**
+
+    Disentangled the policy learning and exploration process in continuous control reinforcement learning tasks by separately design two policies that maximize their respective objectives, which offers policy optimality as well as effective exploration. The resultant model out-performs state-of-the-art approaches in various benchmarks.
+    
+* **Research on Improving State Representations for Reinforcement Learning**
+
+    Built a learning model to extract location of moving objects in visual RL tasks automatically without the need of supervision or labeled samples, which provide high-level state-representations that accelerate reinforcement learning significantly.
+    
+* **Research on Improving Fully Connected Neural Networks**
+
+    Studied the fundamentals of neural networks and programmed a neural network package from scratch in MATLAB. The package contains most commonly used layers in neural networks and it is easy to modify. Proposed a balance gate controlled neural network that out-performs traditional fully-connected neural network in both regression tasks and classification tasks.

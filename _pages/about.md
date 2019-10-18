@@ -13,6 +13,7 @@ I am currently a visiting researcher at [Statistical and Relational Artificial I
 Education
 ======
 * **Beihang University** School of Automation Science and Electrical Engineering
+
 Bachler of Science in Automation, Sep. 2015 - Jun. 2019
 
 Experience

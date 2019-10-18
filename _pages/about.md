@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a visiting researcher at [Statistical and Relational Artificial Intelligence (StarAI) lab](http://web.cs.ucla.edu/~guyvdb/) in UCLA. I am working on tractable probabilistic models and reinforcement learning. Before joining StarAI lab, I was a machine learning intern at Seattle AI Lab, Kwai Inc. During my internship, I worked on game AI and reinforcement learning. Before that, I completed my BS in Automation at the school of automation science and electrical engineering in [Beihang University](https://ev.buaa.edu.cn/) (BUAA).
+I am currently a visiting researcher at [Statistical and Relational Artificial Intelligence (StarAI) lab](http://starai.cs.ucla.edu/members/) in UCLA, led by professor [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/). My research passion is on "". Before joining StarAI lab, I was a machine learning intern at Seattle AI Lab, Kwai Inc. During my internship, I worked on game AI and reinforcement learning. Before that, I completed my BS in Automation at the school of automation science and electrical engineering in [Beihang University](https://ev.buaa.edu.cn/) (BUAA).
 
 Education
 ======
-
+* **Beihang University** School of Automation Science and Electrical Engineering.
 
 Research projects
 ======
-\bullet
+
 
 Getting started
 ======

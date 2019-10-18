@@ -12,7 +12,8 @@ I am currently a visiting researcher at [Statistical and Relational Artificial I
 
 Education
 ======
-* **Beihang University** School of Automation Science and Electrical Engineering.
+* **Beihang University** 
+** School of Automation Science and Electrical Engineering.
 
 Research projects
 ======

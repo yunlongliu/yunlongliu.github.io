@@ -14,7 +14,7 @@ Education
 ======
 * **Beihang University** School of Automation Science and Electrical Engineering
 
-    Bachler of Science in Automation, Sep. 2015 - Jun. 2019
+    Bachler of Science in Automation, Sep. 2015 - Jun. 2019 [transcript](https://liuanji.github.io/files/Transcript of Academic Record - Anji Liu.pdf)
 
 Experience
 ======
@@ -28,7 +28,7 @@ Experience
 
 Research proposal
 ======
-I am broadly interested in 
+My main research passion is on 
 
 Research projects
 ======
@@ -50,3 +50,6 @@ Research projects
 
 Publications
 ======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

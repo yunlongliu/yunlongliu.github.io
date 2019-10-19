@@ -26,10 +26,6 @@ Experience
 
     Research intern, Dec. 2018 - Jul. 2019
 
-Research proposal
-======
-My main research passion is on 
-
 Research projects
 ======
 * **Research on Parallelizing Monte Carlo Tree Search**

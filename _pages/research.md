@@ -3,8 +3,6 @@ layout: archive
 title: "Research Proposal"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-Research proposal
+My main research passion is on

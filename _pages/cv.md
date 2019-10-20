@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Automation, Beihang University, 2019
-  * GPA: 3.86/4.00
+  * GPA: 3.86/4.00 ([transcript](https://liuanji.github.io/files/transcript.pdf))
   * rank: 2/175
 
 Work experience

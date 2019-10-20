@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Automation, Beihang University, 2019
+  * GPA: 3.86/4.00
+  * rank: 2/175
 
 Work experience
 ======
@@ -24,6 +26,11 @@ Work experience
   * Seattle AI Lab, Kwai Inc.
   * Project: User pass rate prediction system for a level-oriented mobile game “joy city”. The system is powered by a game AI using reinforcement learning (RL) and Monte Carlo tree search (MCTS) that achieves master-level performance in the mobile game.
   * Supervisor: Professor [Ji Liu](https://scholar.google.com/citations?user=RRzVwKkAAAAJ&hl=zh-CN)
+
+Standardized test
+======
+* TOEFL: 103 
+* GRE: 324
   
 Skills
 ======

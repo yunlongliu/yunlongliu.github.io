@@ -9,4 +9,4 @@ My main research passion is on building autonomous agent that learns to act rati
 
 I believe one of the promising but under-explored area of RL is to integrate the power of tractable inference models. Inference allows us to encode prior knowledge, model uncertainty, etc. There is a recent trend focusing on model-based RL and inverse reinforcement learning (IRL), where issues such as model uncertainty is critical to the algorithm performance. For instance, ensemble is widely used to model uncertainty in the dynamic environment model.
 
-StarAI@UCLA is a statistical machine learning lab, whose signature works are tractable probabilistic models. It gives me the opportunity to explore new perspectives to solve RL problems. I am actively researching on model-based RL and IRL.
+StarAI@UCLA is a statistical machine learning lab, whose signature works are tractable probabilistic models. It gives me the opportunity to explore new perspectives to solve RL problems. Therefore, I am actively researching on model-based RL and IRL, trying to solve fundamental RL problems using inference tools.

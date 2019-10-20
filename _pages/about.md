@@ -14,7 +14,7 @@ Education
 ======
 * **Beihang University** School of Automation Science and Electrical Engineering
 
-    Bachler of Science in Automation, Sep. 2015 - Jun. 2019 ([transcript](https://liuanji.github.io/files/Transcript of Academic Record - Anji Liu.pdf))
+    Bachler of Science in Automation, Sep. 2015 - Jun. 2019 ([transcript](https://liuanji.github.io/files/transcript.pdf))
 
 Experience
 ======

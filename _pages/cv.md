@@ -29,8 +29,8 @@ Work experience
 
 Standardized test
 ======
-* TOEFL: 103 
-* GRE: 324
+* TOEFL: 103 ([transcript](https://liuanji.github.io/files/toefl.pdf))
+* GRE: 324 ([transcript](https://liuanji.github.io/files/gre.pdf))
   
 Skills
 ======

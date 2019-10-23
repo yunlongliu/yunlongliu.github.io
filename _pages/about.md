@@ -20,7 +20,7 @@ Experience
 ======
 * **StarAI Lab, UCLA**
 
-    Visiting researcher, Aug. 2019 - Present.
+    Visiting researcher, Aug. 2019 - Present
 
 * **Seattle AI Lab, Kwai Inc.**
 

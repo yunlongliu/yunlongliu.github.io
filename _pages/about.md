@@ -36,23 +36,23 @@ Experience
 
 Research projects
 ======
-* **Research on Model-based Reinforcement Learning**
+* **Research on Model-based Reinforcement Learning** (current work)
 
     Solving the environment model’s inaccuracy problem in model-based reinforcement learning with tractable probabilistic inference models. The main idea is that by propagating environment model’s uncertainty over multiple time steps, we can both improve multi-step prediction and be able to quantify the uncertainty, which allows principled tradeoff between using environment model for planning and using on-policy methods.
 
-* **Research on Parallelizing Monte Carlo Tree Search**
+* **Research on Parallelizing Monte Carlo Tree Search** ([paper](https://liuanji.github.io/publication/2019-09-25-P-UCT))
 
     Designed a novel parallelization algorithm for Monte Carlo Tree Search as well as a practical system implementation to achieve linear speed up while suffering negligible performance degradation. The key idea is to make use of the information from unobserved samples to guide the node selection process in the tree search.
     
-* **Research on Exploration Strategy of Continuous Control Tasks**
+* **Research on Exploration Strategy of Continuous Control Tasks** ([paper](https://liuanji.github.io/publication/2019-09-05-AAC))
 
     Disentangled the policy learning and exploration process in continuous control reinforcement learning tasks by separately design two policies that maximize their respective objectives, which offers policy optimality as well as effective exploration. The resultant model out-performs state-of-the-art approaches in various benchmarks.
     
-* **Research on Improving State Representations for Reinforcement Learning**
+* **Research on Improving State Representations for Reinforcement Learning** ([paper](https://liuanji.github.io/publication/2018-07-12-SFEN))
 
     Built a learning model to extract location of moving objects in visual RL tasks automatically without the need of supervision or labeled samples, which provide high-level state-representations that accelerate reinforcement learning significantly.
     
-* **Research on Improving Fully Connected Neural Networks**
+* **Research on Improving Fully Connected Neural Networks** ([paper](https://liuanji.github.io/publication/2018-12-08-BGC-net))
 
     Studied the fundamentals of neural networks and programmed a neural network package from scratch in MATLAB. The package contains most commonly used layers in neural networks and it is easy to modify. Proposed a balance gate controlled neural network that out-performs traditional fully-connected neural network in both regression tasks and classification tasks.
 

@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Summarization of past researches
+Summarization of past research projects
 ======
 My primary research passion is on learning to make good decisions in complex environments. To this end, I am dedicated to making contributions on reinforcement learning, focusing on two core problems: boosting planning performance with learned or exact environment model, and increasing sample efficiency using better exploration strategies. 
 

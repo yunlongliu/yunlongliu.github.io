@@ -25,11 +25,13 @@ Experience
 * **StarAI Lab, UCLA** (Aug. 2019 - Present)
 
     **Title:** visiting researcher
+
     **Research topic:** Tractable inference on probabilistic graphical models, and its application on reinforcement learning.
 
 * **Seattle AI Lab, Kwai Inc.** (Dec. 2018 - Jul. 2019)
 
     **Title:** Machine Learning intern
+
     **Project:** User pass rate prediction system for a level-oriented mobile game “joy city”. The system is powered by a game AI using reinforcement learning (RL) and Monte Carlo tree search (MCTS) that achieves master-level performance in the mobile game.
 
 Research projects

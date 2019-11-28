@@ -19,13 +19,13 @@ Work experience
 ======
 * Fall 2019: Visiting Researcher
   * Star AI Lab, University of California, Los Angeles
-  * Research topic: Inference on tractable probabilistic models, and its combination with reinforcement learning.
+  * Research topic: Tractable inference on probabilistic graphical models, and its application on reinforcement learning.
   * Supervisor: Professor [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/)
 
 * Spring 2019: Research Intern
   * Seattle AI Lab, Kwai Inc.
   * Project: User pass rate prediction system for a level-oriented mobile game “joy city”. The system is powered by a game AI using reinforcement learning (RL) and Monte Carlo tree search (MCTS) that achieves master-level performance in the mobile game.
-  * Supervisor: Professor [Ji Liu](https://scholar.google.com/citations?user=RRzVwKkAAAAJ&hl=zh-CN)
+  * Supervisor: Professor [Ji Liu](https://scholar.google.com/citations?user=RRzVwKkAAAAJ&hl=zh-CN) and [Jianshu Chen](https://chenjianshu.github.io)
 
 Standardized test
 ======

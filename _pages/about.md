@@ -18,7 +18,7 @@ Education
 ======
 * **Beihang University** School of Automation Science and Electrical Engineering
 
-    Bachler of Science in Automation, Sep. 2015 - Jun. 2019 ([transcript](https://liuanji.github.io/files/transcript.pdf))
+    Bachler of Science in Automation, Sep. 2015 - Jun. 2019 ([transcript](https://liuanji.github.io/files/transcript.pdf), [diploma](https://liuanji.github.io/files/diploma.pdf), [graduate certificate](https://liuanji.github.io/files/graduate_certificate.pdf))
 
 Experience
 ======

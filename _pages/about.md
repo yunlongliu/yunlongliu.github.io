@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a visiting researcher at [Statistical and Relational Artificial Intelligence (StarAI) lab](http://starai.cs.ucla.edu/members/) in UCLA, led by professor [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/). My research passion is on the intersection of reinforcement learning (RL) and tractable inference models that add domain knowledge as well as model uncertainty in the environment. Before joining StarAI lab, I was a machine learning intern at Seattle AI Lab, Kwai Inc. My supervisor was [Ji Liu](https://scholar.google.com/citations?user=RRzVwKkAAAAJ&hl=zh-CN) and [Jianshu Chen](https://chenjianshu.github.io/). During my internship, I worked on game AI and reinforcement learning. Before that, I earned my B.S. degree in Automation at the school of automation science and electrical engineering in [Beihang University](https://ev.buaa.edu.cn/) (BUAA), working under the advisement of professor [Yuanjun Laili](http://shi.buaa.edu.cn/yunglynn/en/index.htm).
+I am currently a Ph.D. student at [Statistical and Relational Artificial Intelligence (StarAI) lab](http://starai.cs.ucla.edu/members/) in UCLA, led by professor [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/). My research passion is on the intersection of reinforcement learning (RL) and tractable inference models that add domain knowledge as well as model uncertainty in the environment. Before joining StarAI lab, I was a machine learning intern at Seattle AI Lab, Kwai Inc. My supervisor was [Ji Liu](https://scholar.google.com/citations?user=RRzVwKkAAAAJ&hl=zh-CN) and [Jianshu Chen](https://chenjianshu.github.io/). During my internship, I worked on game AI and reinforcement learning. Before that, I earned my B.S. degree in Automation at the school of automation science and electrical engineering in [Beihang University](https://ev.buaa.edu.cn/) (BUAA), working under the advisement of professor [Yuanjun Laili](http://shi.buaa.edu.cn/yunglynn/en/index.htm).
 
 Research interests
 ======
@@ -16,13 +16,21 @@ My current research passion is on building autonomous agent that learns to act r
 
 Education
 ======
+* **UCLA** Department of Computer Science
+
+    Ph.D. in Computer Science, Sep. 2020 - present
+
 * **Beihang University** School of Automation Science and Electrical Engineering
 
-    Bachler of Science in Automation, Sep. 2015 - Jun. 2019 ([transcript](https://liuanji.github.io/files/transcript.pdf), [diploma](https://liuanji.github.io/files/diploma.pdf), [graduate certificate](https://liuanji.github.io/files/graduate_certificate.pdf))
+    Bachler of Science in Automation, Sep. 2015 - Jun. 2019
 
 Experience
 ======
-* **StarAI Lab, UCLA** (Aug. 2019 - Present)
+* **StarAI Lab, UCLA** (Sep. 2020 - present)
+
+    **Title:** Ph.D. student
+
+* **StarAI Lab, UCLA** (Aug. 2019 - Jul. 2020)
 
     **Title:** visiting researcher
 

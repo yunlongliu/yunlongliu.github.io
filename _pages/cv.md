@@ -7,12 +7,11 @@ redirect_from:
   - /resume
 ---
 
-[pdf version](https://liuanji.github.io/files/cv.pdf)
-
 Education
 ======
+* Ph.D. in Computer Science, UCLA, 2025 (expected)
 * B.S. in Automation, Beihang University, 2019
-  * GPA: 3.86/4.00 ([transcript](https://liuanji.github.io/files/transcript.pdf), [diploma](https://liuanji.github.io/files/diploma.pdf), [graduate certificate](https://liuanji.github.io/files/graduate_certificate.pdf))
+  * GPA: 3.86/4.00
   * rank: 2/175
 
 Work experience
@@ -26,11 +25,6 @@ Work experience
   * Seattle AI Lab, Kwai Inc.
   * Project: User pass rate prediction system for a level-oriented mobile game “joy city”. The system is powered by a game AI using reinforcement learning (RL) and Monte Carlo tree search (MCTS) that achieves master-level performance in the mobile game.
   * Supervisor: Professor [Ji Liu](https://scholar.google.com/citations?user=RRzVwKkAAAAJ&hl=zh-CN) and [Jianshu Chen](https://chenjianshu.github.io)
-
-Standardized test
-======
-* TOEFL: 103 ([transcript](https://liuanji.github.io/files/toefl.pdf))
-* GRE: 324 ([transcript](https://liuanji.github.io/files/gre.pdf))
   
 Skills
 ======

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Anji Liu"
   avatar           : "profile.png"
-  bio              : "Visiting researcher at Statistical and Relational Artificial Intelligence (StarAI) lab in UCLA"
+  bio              : "Ph.D. student at Statistical and Relational Artificial Intelligence (StarAI) lab in UCLA"
   location         : "Los Angeles"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "anjiliu219@gmail.com"
+  email            : "liuanji@cs.ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

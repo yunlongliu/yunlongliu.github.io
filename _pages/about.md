@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "个人简介"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,64 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at [Statistical and Relational Artificial Intelligence (StarAI) lab](http://starai.cs.ucla.edu/members/) in UCLA, led by professor [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/). My research passion is on the intersection of reinforcement learning (RL) and tractable inference models that add domain knowledge as well as model uncertainty in the environment. Before joining StarAI lab, I was a machine learning intern at Seattle AI Lab, Kwai Inc. My supervisor was [Ji Liu](https://scholar.google.com/citations?user=RRzVwKkAAAAJ&hl=zh-CN) and [Jianshu Chen](https://chenjianshu.github.io/). During my internship, I worked on game AI and reinforcement learning. Before that, I earned my B.S. degree in Automation at the school of automation science and electrical engineering in [Beihang University](https://ev.buaa.edu.cn/) (BUAA), working under the advisement of professor [Yuanjun Laili](http://shi.buaa.edu.cn/yunglynn/en/index.htm).
+副教授，硕士生/博士生导师。主要研究兴趣：人工智能、局部可观测环境下的（深度）强化学习、智能决策等，相关研究成果以第一作者/通讯作者发表在IJCAI、AAMAS、《Information Sciences》等CCF推荐的A、B类国际顶级会议和知名期刊上, 担任人工智能顶级会议IJCAI 2017、AAAI 2019程序委员会委员, 曾任NIPS、IEEE TNNLS、ACM Transactions on Intelligent Systems and Technology、控制与决策、西安交通大学学报等顶级会议、期刊审稿人，主持两项国家自然科学基金面上项目、一项福建省自然科学基金项目、一项教育部博士点-新教师类项目，参与多项国家自然科学基金项目。国家自然科学基金通讯评议专家，厦门市商务局、厦门市软件协会、厦门金圆集团等企事业单位项目评审专家。主讲《信息论》、《概率图模型理论及应用》、《计算机网络》等课程。
 
-Research interests
+欢迎对人工智能、（深度）强化学习、图模型理论及应用及其在电子游戏、医疗健康、机器人控制等方面应用感兴趣的优秀硕士生、博士生、博士后加入我们的团队！可通过邮件与我联系：ylliu@xmu.edu.cn。
+
+其他个人信息参考网页：[http://www.escience.cn/people/ylliu/index.html](http://www.escience.cn/people/ylliu/index.html)
+
+Research Interest
 ======
-My current research passion is on building autonomous agent that learns to act rationally in various environments, which is generally referred to as reinforcement learning (RL). I have worked on [finding efficient ways to explore RL environments](https://liuanji.github.io/publication/2019-09-05-AAC) and [deploying novel parallelization Monte Carlo Tree Search (MCTS) algorithms for large scale Game AI tasks](https://liuanji.github.io/publication/2019-09-25-P-UCT). I am also deeply impressed by probabilistic inference models and many other machine learning models. Please see my [research proposal](https://liuanji.github.io/research) for details.
-
-Education
+* Reinforcement Learning with focus on reinforcement learning in partially observable domains, planning with model uncertainty, spectral learning, Predictive State Representations(PSRs) and POMDPs.
+  
+Employment
 ======
-* **UCLA** Department of Computer Science
+* Associate Professor, Department of Automation, Xiamen University, China. (2015-present)
+* Assistant Professor, Department of Automation, Xiamen University, China. (2009 - 2015)
 
-    Ph.D. in Computer Science, Sep. 2020 - present
-
-* **Beihang University** School of Automation Science and Electrical Engineering
-
-    Bachler of Science in Automation, Sep. 2015 - Jun. 2019
-
-Experience
+Education 
 ======
-* **StarAI Lab, UCLA** (Sep. 2020 - present)
-
-    **Title:** Ph.D. student
-
-* **StarAI Lab, UCLA** (Aug. 2019 - Jul. 2020)
-
-    **Title:** visiting researcher
-
-    **Research topic:** Tractable inference on probabilistic graphical models, and its application on reinforcement learning.
-
-* **Seattle AI Lab, Kwai Inc.** (Dec. 2018 - Jul. 2019)
-
-    **Title:** Machine Learning intern
-
-    **Project:** User pass rate prediction system for a level-oriented mobile game “joy city”. The system is powered by a game AI using reinforcement learning (RL) and Monte Carlo tree search (MCTS) that achieves master-level performance in the mobile game.
-
-Research projects
-======
-* **Research on Model-based Reinforcement Learning** (current work)
-
-    Solving the environment model’s inaccuracy problem in model-based reinforcement learning with tractable probabilistic inference models. The main idea is that by propagating environment model’s uncertainty over multiple time steps, we can both improve multi-step prediction and be able to quantify the uncertainty, which allows principled tradeoff between using environment model for planning and using on-policy methods.
-
-* **Research on Parallelizing Monte Carlo Tree Search** ([paper](https://liuanji.github.io/publication/2019-09-25-P-UCT))
-
-    Designed a novel parallelization algorithm for Monte Carlo Tree Search as well as a practical system implementation to achieve linear speed up while suffering negligible performance degradation. The key idea is to make use of the information from unobserved samples to guide the node selection process in the tree search.
-    
-* **Research on Exploration Strategy of Continuous Control Tasks** ([paper](https://liuanji.github.io/publication/2019-09-05-AAC))
-
-    Disentangled the policy learning and exploration process in continuous control reinforcement learning tasks by separately design two policies that maximize their respective objectives, which offers policy optimality as well as effective exploration. The resultant model out-performs state-of-the-art approaches in various benchmarks.
-    
-* **Research on Improving State Representations for Reinforcement Learning** ([paper](https://liuanji.github.io/publication/2018-07-12-SFEN))
-
-    Built a learning model to extract location of moving objects in visual RL tasks automatically without the need of supervision or labeled samples, which provide high-level state-representations that accelerate reinforcement learning significantly.
-    
-* **Research on Improving Fully Connected Neural Networks** ([paper](https://liuanji.github.io/publication/2018-12-08-BGC-net))
-
-    Studied the fundamentals of neural networks and programmed a neural network package from scratch in MATLAB. The package contains most commonly used layers in neural networks and it is easy to modify. Proposed a balance gate controlled neural network that out-performs traditional fully-connected neural network in both regression tasks and classification tasks.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Xi'an Jiaotong University, Ph.D. in Control Science and Engineering.
+  Thesis: Research on Predictive State Representation and Its Applications
+* Northwestern Polytechnical University, B.sc. in Automatic Control.

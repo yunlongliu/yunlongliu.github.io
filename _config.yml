@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Anji Liu"
+locale                   : "zh"
+title                    : "刘云龙"
 title_separator          : "-"
-name                     : &name "Anji Liu"
+name                     : &name "刘云龙"
 description              : &description "personal description"
 url                      : https://liuanji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liuanji/liuanji.github.io"
+repository               : "Flora55/ylliu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anji Liu"
+  name             : "刘云龙"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Statistical and Relational Artificial Intelligence (StarAI) lab in UCLA"
-  location         : "Los Angeles"
+  bio              : "厦门大学航空航天学院自动化系副教授"
+  location         : "厦门市"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "liuanji@cs.ucla.edu"
+  email            : "ylliu@xmu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liuanji"
+  github           : #"liuanji"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/anji-liu-7610b7190/"
+  linkedin         : #"https://linkedin.com/in/anji-liu-7610b7190/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

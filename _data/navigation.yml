@@ -1,7 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "个人简介"
+    url: /self-intro/
+    
+  - title: "研究成果"
     url: /publications/
+    
+  - title: "承担项目"
+    url: /projects/   
+    
+  - title: "学术奖励"
+    url: /projects/ 
 
   # - title: "Talks"
   #   url: /talks/    
@@ -15,8 +24,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
-  - title: "Research Proposal"
-    url: /research/
+  #- title: "Research Proposal"
+  #  url: /research/

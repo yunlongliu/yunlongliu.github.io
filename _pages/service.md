@@ -6,10 +6,6 @@ author_profile: true
 
 ---
 
-Research Interest
-===
-* （Deep）Reinforcement Learning with focus on reinforcement learning in partially observable domains, planning with model uncertainty, spectral learning, Predictive State Representations(PSRs) and POMDPs.
-
 
 Service
 ===

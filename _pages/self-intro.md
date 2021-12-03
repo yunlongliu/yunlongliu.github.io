@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "个人简介"
+title: "About me"
 permalink: /self-intro/
 author_profile: true
 

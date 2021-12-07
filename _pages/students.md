@@ -12,16 +12,27 @@ PhD Students
 Master Students
 ---
 
-* 2016 - 2019 : Jianyang Zheng 郑建阳 (已毕业)
-* 2017 - 2020 : Kun Ni 倪坤 (已毕业)
-* 2017 - 2020 : Danning Yu 于丹宁 (已毕业)
-* 2018 - 2021 : Fangfang Chang 常芳芳 (已毕业)
-* 2019 -  : Aiming Xu 徐爱民 (个人主页：)
-* 2020 -  : Qihang Chen 陈祺航 (个人主页：)
-* 2020 -  : Dayang Liang 梁大杨 (个人主页：)
-* 2021 -  : Huiyi Deng 邓晖奕 (个人主页：)
-* 2021 -  : Linghui Yuan 袁令晖 (个人主页：)
-* 2021 -  : Qiwei Zhang 张骐薇 (个人主页：)
+###已毕业
+
+####2016级
+* Jianyang Zheng 郑建阳 
+####2017级
+* Kun Ni 倪坤 
+* Danning Yu 于丹宁 
+####2018级
+* Fangfang Chang 常芳芳 
+
+###在读
+
+####2019级
+* Aiming Xu 徐爱民 (个人主页：)
+####2020级
+* Qihang Chen 陈祺航 (个人主页：)
+* Dayang Liang 梁大杨 (个人主页：)
+####2021级
+* Huiyi Deng 邓晖奕 (个人主页：)
+* Linghui Yuan 袁令晖 (个人主页：)
+* Qiwei Zhang 张骐薇 (个人主页：)
 
 
 Undergraduate Students

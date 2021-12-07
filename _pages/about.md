@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+----
 Research Interest
 ======
 * (Deep) Reinforcement Learning, planning with model uncertainty, Predictive State Representations(PSRs) and POMDPs, healthcare.

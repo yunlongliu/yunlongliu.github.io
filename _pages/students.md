@@ -12,15 +12,6 @@ PhD Students
 Master Students
 ---
 
-### 已毕业
-
-#### 2016级
-* Jianyang Zheng 郑建阳 
-#### 2017级
-* Kun Ni 倪坤 
-* Danning Yu 于丹宁 
-#### 2018级
-* Fangfang Chang 常芳芳 
 
 ### 在读
 
@@ -33,6 +24,17 @@ Master Students
 * Huiyi Deng 邓晖奕 (个人主页：)
 * Linghui Yuan 袁令晖 (个人主页：)
 * Qiwei Zhang 张骐薇 (个人主页：)
+
+
+### 已毕业
+
+#### 2016级
+* Jianyang Zheng 郑建阳 
+#### 2017级
+* Kun Ni 倪坤 
+* Danning Yu 于丹宁 
+#### 2018级
+* Fangfang Chang 常芳芳 
 
 
 Undergraduate Students

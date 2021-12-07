@@ -5,12 +5,10 @@ permalink: /about-me/
 author_profile: true
 
 ---
+副教授，博士生导师，UCLA计算机系访问学者（2019.9-2020.9），主要研究兴趣：人工智能、（深度）强化学习、智能决策、机器学习在医疗健康中的应用等，相关研究成果以第一作者/通讯作者发表在IJCAI、AAMAS、ICML workshop、《Information Sciences》 、《International Journal of Approximate Reasoning》、《Knowledge-Based Systems》等CCF推荐的A、B类或一区、二区国际顶级会议和知名期刊上,担任IJCAI  Program Committee Board成员（2022-2024），AAAI（ 2019、2020、 2021(CCF A类), IJCAI 2017、IJCAI 2021（CCF A类）, AAMAS2020 (CCF B), ICONIP 2019(CCF C)、UAI 2021 (CCF B)等人工智能顶会程序委员会委员，担任Information Sciences、NIPS2016、IEEE TNNLS、ACM Transactions on Intelligent Systems and Technology、IROS2020、IEEE Robotics and Automation Letters、控制与决策、系统工程与电子技术、西安交通大学学报、厦门大学学报等顶会、期刊审稿人。国家自然科学基金通讯评议专家，教育部学位中心论文评审专家，厦门市商务局、厦门市软件协会、厦门金圆集团等企事业单位项目评审专家。主讲《信息论》、《概率图模型理论及应用》、《计算机网络》等课程。
 
-副教授，硕士生/博士生导师。主要研究兴趣：人工智能、局部可观测环境下的（深度）强化学习、智能决策等，相关研究成果以第一作者/通讯作者发表在IJCAI、AAMAS、《Information Sciences》等CCF推荐的A、B类国际顶级会议和知名期刊上, 担任人工智能顶级会议IJCAI 2017、AAAI 2019程序委员会委员, 曾任NIPS、IEEE TNNLS、ACM Transactions on Intelligent Systems and Technology、控制与决策、西安交通大学学报等顶级会议、期刊审稿人，主持两项国家自然科学基金面上项目、一项福建省自然科学基金项目、一项教育部博士点-新教师类项目，参与多项国家自然科学基金项目。国家自然科学基金通讯评议专家，厦门市商务局、厦门市软件协会、厦门金圆集团等企事业单位项目评审专家。主讲《信息论》、《概率图模型理论及应用》、《计算机网络》等课程。
+欢迎对人工智能、（深度）强化学习、图模型理论及应用及其在电子游戏、医疗健康、机器人控制等方面应用及网络安全开发及应用感兴趣的优秀硕士生、博士生、博士后加入我们的团队！
 
-欢迎对人工智能、（深度）强化学习、图模型理论及应用及其在电子游戏、医疗健康、机器人控制等方面应用感兴趣的优秀硕士生、博士生、博士后加入我们的团队！可通过邮件与我联系：ylliu@xmu.edu.cn。
-
-其他个人信息参考网页：[http://www.escience.cn/people/ylliu/index.html](http://www.escience.cn/people/ylliu/index.html)
 
 Research Interest
 ======

@@ -36,7 +36,7 @@ author_profile: true
 
 \[6\] <u>Zheng Jianyang</u>, <u>Zhu Hexing</u>, <u>Chang Fangfang</u>, __Liu Yunlong\*__\. An improved relief feature selection algorithm based on Monte\-Carlo tree search\. Systems Science and Control Engineering, 7\(1\):304\-310\. 
 
-\[5\] Huang Chunqing, An Yisheng, Zhou Sun, <u>Hong Zhezheng</u>, __Liu Yunlong\*__\. Basis selection in spectral learning of predictive state representations\. Neurocomputing, 310:183\–189, 2018\. \(SCI二区\)
+\[5\] Huang Chunqing, An Yisheng, Zhou Sun, <u>Hong Zhezheng</u>, __Liu Yunlong\*__\. Basis selection in spectral learning of predictive state representations\. Neurocomputing, 310:183\-189, 2018\. \(SCI二区\)
 
 \[4\] __Liu Yunlong\*__, Zeng Yifeng, <u>Zhu Hexing</u>, <u>Tang Yun</u>\. Making and Improving Predictions of Interest Using an MDP Model\. Proceedings of the 16th International Conference on Autonomous Agents and Multiagent Systems\(AAMAS 2017\), 1610\-1612, 2017\. \(CCF B类会议\)
 

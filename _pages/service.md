@@ -8,10 +8,10 @@ author_profile: true
 
 ### Program committee member: 
 * IJCAI Program Committee Board（2022-2024）
-* AAAI 2019、2020、 2021
-* IJCAI 2017、2021
+* AAAI 2019, 2020, 2021
+* IJCAI 2017, 2021
 * AAMAS 2020
-* UAI 2021、2022
+* UAI 2021, 2022
 
 ### Reviewer: 
 * ACM Transactions on Intelligent Systems and Technology

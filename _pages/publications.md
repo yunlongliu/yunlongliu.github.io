@@ -18,7 +18,7 @@ author_profile: true
 
 \[15\] __Liu Yunlong\*__, <u>Zheng Jianyang</u>, <u>Chang Fangfang</u>\. Learning and planning in partially observable environments without prior domain knowledge\. International Journal of Approximate Reasoning, 142: 147-160, 2022\. \(SCI, CCF B类期刊\)
 
-\[14\] <u>常芳芳</u>，<u>陈祺航</u>，__刘云龙\*__\. 局部可观测环境下未来信息辅助的无模型深度强化学习\. 已录用\.《南京大学学报（自然科学版）》
+
 
 \[13\] <u>Chen Qihang</u>, <u>Liang Dayang</u>, __Liu Yunlong\*__\. Hard Negative Sample Mining for Contrastive Representation in Reinforcement Learning\. The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD2022), 2022\.5\. \(CCF C类会议\)
 

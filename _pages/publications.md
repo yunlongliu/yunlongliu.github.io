@@ -32,15 +32,15 @@ author_profile: true
 
 \[8\] __Liu Yunlong\*__, <u>Zheng Jianyang</u>\. Online learning and planning in partially observable domains without prior knowledge\. ICML 2019 Workshop on the Generative Modeling and Model\-Based Reasoning for Robotics and AI, 2019\. \(ICML为CCF A类会议\)
 
-\[7\] <u>Ni Kun</u>, <u>Yu Danning</u>, __Liu Yunlong\*__\. Attention\-Based Deep Q\-Network in Complex Systems//International Conference on Neural Information Processing \(ICONIP2019\), 2019: 323-332\.\(CCF C类会议\)
+\[7\] <u>Ni Kun</u>, <u>Yu Danning</u>, __Liu Yunlong\*__\. Attention\-Based Deep Q\-Network in Complex Systems\. International Conference on Neural Information Processing \(ICONIP2019\), 2019: 323-332\.\(CCF C类会议\)
 
 \[6\] <u>Zheng Jianyang</u>, <u>Zhu Hexing</u>, <u>Chang Fangfang</u>, __Liu Yunlong\*__\. An improved relief feature selection algorithm based on Monte\-Carlo tree search\. Systems Science and Control Engineering, 7\(1\):304\-310\. 
 
-\[5\] Huang Chunqing, An Yisheng, Zhou Sun, <u>Hong Zhezheng</u>, __Liu Yunlong\*__\. Basis selection in spectral learning of predictive state representations\. Neurocomputing, 310:183\-189, 2018\. \(SCI二区\)
+\[5\] Huang Chunqing, An Yisheng, Zhou Sun, <u>Hong Zhezheng</u>, __Liu Yunlong\*__\. Basis selection in spectral learning of predictive state representations\. Neurocomputing, 310:183\–189, 2018\. \(SCI二区\)
 
 \[4\] __Liu Yunlong\*__, Zeng Yifeng, <u>Zhu Hexing</u>, <u>Tang Yun</u>\. Making and Improving Predictions of Interest Using an MDP Model\. Proceedings of the 16th International Conference on Autonomous Agents and Multiagent Systems\(AAMAS 2017\), 1610\-1612, 2017\. \(CCF B类会议\)
 
-\[3\] __Liu Yunlong\*__, <u>Zhu Hexing</u>, Zeng Yifeng, <u>Dai Zongxiong</u>\. Learning Predictive State Representations via Monte\-Carlo Tree Search//The 25th International Joint Conference on Artificial Intelligence \(IJCAI-16\), 3192-3198, 2016\. \(CCF A类会议, Full/oral paper\)
+\[3\] __Liu Yunlong\*__, <u>Zhu Hexing</u>, Zeng Yifeng, <u>Dai Zongxiong</u>\. Learning Predictive State Representations via Monte\-Carlo Tree Search\. The 25th International Joint Conference on Artificial Intelligence \(IJCAI-16\), 3192-3198, 2016\. \(CCF A类会议, Full/oral paper\)
 
 \[2\] __Liu Yunlong\*__, <u>Tang Yun</u>, Zeng Yifeng\. Predictive State Representations with State Space Partitioning\. Proceedings of the 14th International Conference on Autonomous Agents and Multiagent Systems(AAMAS 2015), 1259-1266, 2015\. \(CCF B类会议, Full/oral paper\)
 

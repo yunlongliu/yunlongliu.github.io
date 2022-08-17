@@ -8,13 +8,14 @@ author_profile: true
 
 ### Selected Publications: (2014-至今，其中标“\*”为通讯作者，标“\_\_”表示为指导研究生，目前主要为硕士研究生)
 
-\[19\] <u>Xu Aimin</u>, <u>Yuan Linghui</u>, __Liu Yunlong\*__\. Sequential Decision Making with “Sequential Information” in Deep Reinforcement Learning\. Under Review\.
 
-\[18\] <u>Chen Qihang</u>, <u>Zhang Qiwei</u>, __Liu Yunlong\*__\. Balancing Exploration and Exploitation in Episodic Reinforcement Learning\. Under Review\. 
+\[19\] <u>Chen Qihang</u>, <u>Zhang Qiwei</u>, __Liu Yunlong\*__\. Balancing Exploration and Exploitation in Episodic Reinforcement Learning\. Under Review\. 
 
-\[17\] <u>Chang Fangfang</u>, <u>Liang Dayang</u>, <u>Yu Danning</u>, __Liu Yunlong\*__\. Model-free Deep Reinforcement Learning with Future Information in Real Data\. Under Review\. 
+\[18\] <u>Chang Fangfang</u>, <u>Liang Dayang</u>, <u>Yu Danning</u>, __Liu Yunlong\*__\. Model-free Deep Reinforcement Learning with Future Information in Real Data\. Under Review\. 
 
-\[16\] <u>Liang Dayang</u>, <u>Deng Huiyi</u>, __Liu Yunlong\*__\. The Treatment of Sepsis: An Episodic Memory-assisted Deep Reinforcement Learning Approach\. Under Review\.
+\[17\] <u>Liang Dayang</u>, <u>Deng Huiyi</u>, __Liu Yunlong\*__\. The Treatment of Sepsis: An Episodic Memory-assisted Deep Reinforcement Learning Approach\. Under Review\.
+
+\[16\] <u>Xu Aimin</u>, <u>Yuan Linghui</u>, __Liu Yunlong\*__\. Sequential Decision Making with “Sequential Information” in Deep Reinforcement Learning\. PRICAI 2022 (CCF C)\.
 
 \[15\] __Liu Yunlong\*__, <u>Zheng Jianyang</u>, <u>Chang Fangfang</u>\. Learning and planning in partially observable environments without prior domain knowledge\. International Journal of Approximate Reasoning, 142: 147-160, 2022\. \(SCI, CCF B类期刊\)
 

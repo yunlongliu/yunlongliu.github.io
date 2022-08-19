@@ -13,7 +13,7 @@ author_profile: true
 
 \[18\] <u>Chang Fangfang</u>, <u>Liang Dayang</u>, <u>Yu Danning</u>, __Liu Yunlong\*__\. Model-free Deep Reinforcement Learning with Future Information in Real Data\. Under Review\. 
 
-\[17\] <u>Liang Dayang</u>, <u>Deng Huiyi</u>, __Liu Yunlong\*__\. The Treatment of Sepsis: An Episodic Memory-assisted Deep Reinforcement Learning Approach\. Under Review\.
+\[17\] <u>Liang Dayang</u>, <u>Deng Huiyi</u>, __Liu Yunlong\*__\. The Treatment of Sepsis: An Episodic Memory-assisted Deep Reinforcement Learning Approach\. Applied Intelligence，2022 (SCI 二区)\.
 
 \[16\] <u>Xu Aimin</u>, <u>Yuan Linghui</u>, __Liu Yunlong\*__\. Sequential Decision Making with “Sequential Information” in Deep Reinforcement Learning\. PRICAI 2022 (CCF C)\.
 

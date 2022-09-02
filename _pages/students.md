@@ -8,15 +8,13 @@ author_profile: true
 
 PhD Students
 ---
+#### 2022级
+* Dayang Liang 梁大杨 (个人主页：)
+
 
 Master Students
 ---
-
-
 ### 在读
-
-#### 2019级
-* Aiming Xu 徐爱民 (个人主页：)
 
 #### 2020级
 * Qihang Chen 陈祺航 (个人主页：)
@@ -40,6 +38,8 @@ Master Students
 #### 2018级
 * Fangfang Chang 常芳芳 
 
+#### 2019级
+* Aiming Xu 徐爱民
 
 Undergraduate Students
 ---

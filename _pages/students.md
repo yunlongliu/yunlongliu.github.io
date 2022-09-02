@@ -9,7 +9,7 @@ author_profile: true
 PhD Students
 ---
 #### 2022级
-* 梁大杨 (个人主页：)
+* 梁大杨 (硕博连读)
 
 
 Master Students

@@ -11,7 +11,7 @@ author_profile: true
 * AAAI 2019, 2020, 2021，2022
 * IJCAI 2017, 2021
 * AAMAS 2020
-* UAI 2021, 2022
+* UAI 2021, 2022,2023
 
 ### Reviewer: 
 * ACM Transactions on Intelligent Systems and Technology
@@ -33,3 +33,4 @@ author_profile: true
 * 教育部学位中心硕、博论文评审专家
 * 厦门市商务局、厦门市软件协会、厦门金圆集团等企事业单位项目评审专家
 * 中国自动化学会自适应动态规划与强化学习专业委员会委员
+* CCF-AI多智能体系统学组委员

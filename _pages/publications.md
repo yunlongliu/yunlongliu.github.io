@@ -7,17 +7,17 @@ author_profile: true
 ---
 
 ### Selected Publications: (2014-至今，其中标“\*”为通讯作者，标“\_\_”表示为指导研究生，目前主要为硕士研究生)
+\[20\] <u>Liang Dayang</u>, <u>Chen Qihang</u>, __Liu Yunlong\*__\. Sequential Action-Induced Invariant Representation for Reinforcement Learning\. Under Review\. 
 
+\[19\] <u>Liang Dayang</u>, <u>Yu Danning</u>, __Liu Yunlong\*__\. Model-free Deep Reinforcement Learning with Future Information in Real Data\. Under Review\. 
 
-\[19\] <u>Chen Qihang</u>, <u>Zhang Qiwei</u>, __Liu Yunlong\*__\. Balancing Exploration and Exploitation in Episodic Reinforcement Learning\. Under Review\. 
-
-\[18\] <u>Chang Fangfang</u>, <u>Liang Dayang</u>, <u>Yu Danning</u>, __Liu Yunlong\*__\. Model-free Deep Reinforcement Learning with Future Information in Real Data\. Under Review\. 
+\[18\] <u>Chen Qihang</u>, <u>Zhang Qiwei</u>, __Liu Yunlong\*__\. Balancing Exploration and Exploitation in Episodic Reinforcement Learning\. Expert Systems With Applications, 2023, (SCI一区）\. 
 
 \[17\] <u>Liang Dayang</u>, <u>Deng Huiyi</u>, __Liu Yunlong\*__\. The Treatment of Sepsis: An Episodic Memory-assisted Deep Reinforcement Learning Approach\. Applied Intelligence，2022 (SCI 二区)\.
 
 \[16\] <u>Xu Aimin</u>, <u>Yuan Linghui</u>, __Liu Yunlong\*__\. Sequential Decision Making with “Sequential Information” in Deep Reinforcement Learning\. PRICAI 2022 (CCF C)\.
 
-\[15\] __Liu Yunlong\*__, <u>Zheng Jianyang</u>, <u>Chang Fangfang</u>\. Learning and planning in partially observable environments without prior domain knowledge\. International Journal of Approximate Reasoning, 142: 147-160, 2022\. \(SCI, CCF B类期刊\)
+\[15\] __Liu Yunlong\*__, <u>Zheng Jianyang</u>, <u>Chang Fangfang</u>\. Learning and planning in partially observable environments without prior domain knowledge\. International Journal of Approximate Reasoning, 142: 147-160, 2022\. \(SCI二区, CCF B类期刊\)
 
 \[14\] <u>常芳芳</u>, <u>陈祺航</u>, __刘云龙\*__\. 局部可观测环境下未来信息辅助的无模型深度强化学习. 已录用.《南京大学学报（自然科学版）》
 

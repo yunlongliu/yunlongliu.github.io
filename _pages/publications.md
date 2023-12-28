@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-### Selected Publications: (2014-至今，其中标“\*”为通讯作者，标“\_\_”表示为指导研究生，目前主要为硕士研究生)
+### Selected Publications: (2014-至今，其中标“\*”为通讯作者，标“\_\_”表示为本人指导研究生，目前主要为硕士研究生)
 \[20\] <u>Liang Dayang</u>, <u>Chen Qihang</u>, __Liu Yunlong\*__\. Sequential Action-Induced Invariant Representation for Reinforcement Learning\. Under Review\. 
 
 \[19\] <u>Liang Dayang</u>, <u>Zhang Yaru</u>, __Liu Yunlong\*__\. Episodic Reinforcement Learning with Expanded State-reward Space\. AAMAS 2024, (CCF B, Full/oral paper)\. 

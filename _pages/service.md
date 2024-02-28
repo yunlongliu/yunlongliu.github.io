@@ -31,7 +31,7 @@ author_profile: true
 * 2023腾讯开悟人工智能全国公开赛博弈算法高级赛道决赛第四名，[新华网新闻链接](http://www.sc.xinhuanet.com/20240103/4dd72c619a8648f0836c43ba9fec1168/c.html)； [腾讯网新闻链接](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/news/b751f28065b7904f0913004a6c413002)
 * AMMAS 2023(人工智能顶会，CCF B类)非完全信息卡牌游戏竞赛第四名
 * 2023年全国大学生冰壶人工智能挑战赛一等奖
-* 
+  
 ### 其他：
 * 人工智能顶会UAI 2022 (CCF B) Top Reviewer
 * 国家自然科学基金通讯评议专家

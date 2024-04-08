@@ -14,9 +14,9 @@ author_profile: true
 
 \[20\] <u>Yuan Linghui</u>, <u>Lu Xiaowei</u>, __Liu Yunlong\*__\. Learning Task-relevant Representations via Rewards and Real Actions  for Reinforcement Learning\.  Knowledge-Based Systems, 已录用\. \(SCI一区，TOP期刊\)
 
-\[19\] <u>Liang Dayang</u>, <u>Zhang Yaru</u>, __Liu Yunlong\*__\. Episodic Reinforcement Learning with Expanded State-reward Space\. AAMAS 2024, (CCF B, Full/oral paper)\. 
+\[19\] <u>Liang Dayang</u>, <u>Zhang Yaru</u>, __Liu Yunlong\*__\. Episodic Reinforcement Learning with Expanded State-reward Space\. AAMAS 2024, 已录用，2024.5(CCF B, Full/oral paper)\. 
 
-\[18\] <u>Chen Qihang</u>, <u>Zhang Qiwei</u>, __Liu Yunlong\*__\. Balancing Exploration and Exploitation in Episodic Reinforcement Learning\. Expert Systems With Applications, 2023, (SCI一区）\. 
+\[18\] <u>Chen Qihang</u>, <u>Zhang Qiwei</u>, __Liu Yunlong\*__\. Balancing Exploration and Exploitation in Episodic Reinforcement Learning\. Expert Systems With Applications, 2023, (SCI一区, TOP期刊）\. 
 
 \[17\] <u>Liang Dayang</u>, <u>Deng Huiyi</u>, __Liu Yunlong\*__\. The Treatment of Sepsis: An Episodic Memory-assisted Deep Reinforcement Learning Approach\. Applied Intelligence，2022 (SCI 二区)\.
 

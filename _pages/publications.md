@@ -8,9 +8,9 @@ author_profile: true
 
 ### Selected Publications: (2014-至今，其中标“\*”为通讯作者，标“\_\_”表示为本人指导研究生，目前主要为硕士研究生)
 
-\[21\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. Safe Treatment of Sepsis: A Data Augmentation-Based Deep Reinforcement Learning Approach\. Under Review\.
+\[22\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. Safe Treatment of Sepsis: A Data Augmentation-Based Deep Reinforcement Learning Approach\. Under Review\.
 
-\[20\] <u>Liang Dayang</u>, <u>Chen Qihang</u>, __Liu Yunlong\*__\. Sequential Action-Induced Invariant Representation for Reinforcement Learning\. Under Review\.
+\[21\] <u>Liang Dayang</u>, <u>Chen Qihang</u>, __Liu Yunlong\*__\. Sequential Action-Induced Invariant Representation for Reinforcement Learning\. Under Review\.
 
 \[20\] <u>Yuan Linghui</u>, <u>Lu Xiaowei</u>, __Liu Yunlong\*__\. Learning Task-relevant Representations via Rewards and Real Actions  for Reinforcement Learning\.  Knowledge-Based Systems, 已录用\. \(SCI一区，TOP期刊\)
 

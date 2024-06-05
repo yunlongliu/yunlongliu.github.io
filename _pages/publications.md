@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ### Selected Publications: (2014-至今，其中标“\*”为通讯作者，标“\_\_”表示为本人指导研究生，目前主要为硕士研究生)
+\[23\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning\. Under Review\.
 
 \[22\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. Safe Treatment of Sepsis: A Data Augmentation-Based Deep Reinforcement Learning Approach\. Under Review\.
 

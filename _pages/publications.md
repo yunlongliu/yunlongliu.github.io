@@ -11,9 +11,9 @@ author_profile: true
 
 \[22\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. Safe Treatment of Sepsis: A Data Augmentation-Based Deep Reinforcement Learning Approach\. Under Review\.
 
-\[21\] <u>Liang Dayang</u>, <u>Chen Qihang</u>, __Liu Yunlong\*__\. Sequential Action-Induced Invariant Representation for Reinforcement Learning\. Neural Networks, 294,2024\. \(SCI一区，TOP期刊, CCF B类\)
+\[21\] <u>Liang Dayang</u>, <u>Chen Qihang</u>, __Liu Yunlong\*__\. Sequential Action-Induced Invariant Representation for Reinforcement Learning\. Neural Networks, 已录用\. \(SCI一区，TOP期刊, CCF B类\)
 
-\[20\] <u>Yuan Linghui</u>, <u>Lu Xiaowei</u>, __Liu Yunlong\*__\. Learning Task-relevant Representations via Rewards and Real Actions  for Reinforcement Learning\.  Knowledge-Based Systems, 294,2024\. \(SCI一区，TOP期刊\)
+\[20\] <u>Yuan Linghui</u>, <u>Lu Xiaowei</u>, __Liu Yunlong\*__\. Learning Task-relevant Representations via Rewards and Real Actions  for Reinforcement Learning\.  Knowledge-Based Systems, 294, 2024\. \(SCI一区，TOP期刊\)
 
 \[19\] <u>Liang Dayang</u>, <u>Zhang Yaru</u>, __Liu Yunlong\*__\. Episodic Reinforcement Learning with Expanded State-reward Space\. AAMAS 2024，2024.5(CCF B, Full/oral paper)\. 
 

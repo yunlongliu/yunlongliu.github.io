@@ -8,14 +8,18 @@ author_profile: true
 
 PhD Students
 ---
+#### 2023级
+* 陈开洲
 #### 2022级
 * 梁大杨 (硕博连读)
-
-
+  
 Master Students
 ---
 ### 在读
 
+#### 2023级
+* 赖家磊
+  
 #### 2023级
 * 江泽杰 
 * 赖锦洋
@@ -23,13 +27,13 @@ Master Students
 #### 2022级
 * 张雅茹 
 * 芦晓伟
+* 
+### 已毕业
 
 #### 2021级
 * 邓晖奕 
 * 袁令晖
 * 张骐薇 
-
-### 已毕业
 
 #### 2020级
 * 陈祺航
@@ -50,5 +54,5 @@ Master Students
 
 Undergraduate Students
 
-* 赖家磊
+* 
 ---

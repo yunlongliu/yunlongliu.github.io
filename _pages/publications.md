@@ -11,7 +11,7 @@ author_profile: true
 
 \[24\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. Safe Treatment of Sepsis: A Data Augmentation-Based Deep Reinforcement Learning Approach\. Under Review\.
 
-\[23\] <u>Zhang Yaru</u>, Chen Kaizhou, __Liu Yunlong\*__\. Causal Representation Learning in Offline Visual Reinforcement Learning\. Knowledge-Based Systems, 2025, 已录用\. \(SCI一区，TOP期刊\).
+\[23\] <u>Zhang Yaru</u>, <u>Chen Kaizhou</u>, __Liu Yunlong\*__\. Causal Representation Learning in Offline Visual Reinforcement Learning\. Knowledge-Based Systems, 2025, 已录用\. \(SCI一区，TOP期刊\).
 
 \[22\] <u>张祺薇</u>, 林彬, __刘云龙\*__\. 基于顺序耦合对抗学习的脓毒症序列生成方法\. 计算机工程, 已录用, 2025\.
 

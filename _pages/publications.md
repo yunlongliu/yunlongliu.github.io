@@ -7,11 +7,15 @@ author_profile: true
 ---
 
 ### Selected Publications: (2014-至今，其中标“\*”为通讯作者，标“\_\_”表示为本人指导研究生，目前主要为硕士研究生)
-\[23\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning\. Under Review\.
+\[25\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning\. Under Review\.
 
-\[22\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. Safe Treatment of Sepsis: A Data Augmentation-Based Deep Reinforcement Learning Approach\. Under Review\.
+\[24\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. Safe Treatment of Sepsis: A Data Augmentation-Based Deep Reinforcement Learning Approach\. Under Review\.
 
-\[21\] <u>Liang Dayang</u>, <u>Chen Qihang</u>, __Liu Yunlong\*__\. Sequential Action-Induced Invariant Representation for Reinforcement Learning\. Neural Networks, 已录用\. \(SCI一区，TOP期刊, CCF B类\)
+\[23\] <u>Zhang Yaru</u>, Chen Kaizhou, __Liu Yunlong\*__\. Causal Representation Learning in Offline Visual Reinforcement Learning\. Knowledge-Based Systems, 2025, 已录用\. \(SCI一区，TOP期刊\).
+
+\[22\] <u>张祺薇</u>, 林彬, __刘云龙\*__\. 基于顺序耦合对抗学习的脓毒症序列生成方法\. 计算机工程, 已录用, 2025\.
+
+\[21\] <u>Liang Dayang</u>, <u>Chen Qihang</u>, __Liu Yunlong\*__\. Sequential Action-Induced Invariant Representation for Reinforcement Learning\. Neural Networks, 179 (2024) 106579, 2024\. \(SCI一区，TOP期刊, CCF B类\)
 
 \[20\] <u>Yuan Linghui</u>, <u>Lu Xiaowei</u>, __Liu Yunlong\*__\. Learning Task-relevant Representations via Rewards and Real Actions  for Reinforcement Learning\.  Knowledge-Based Systems, 294, 2024\. \(SCI一区，TOP期刊\)
 

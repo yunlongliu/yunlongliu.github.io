@@ -8,9 +8,9 @@ author_profile: true
 
 ### Program committee member: 
 * IJCAI Program Committee Board \(2022\-2024\)
-* AAAI 2019,2020,2021,2022,2023、2024
+* AAAI 2019,2020,2021,2022,2023、2024、2025
 * IJCAI 2017,2021,2022,2023,2024
-* UAI 2021, 2022,2023,2024
+* UAI 2021, 2022,2023,2024、2025
 * AAMAS 2020
 * ICDM 2024
 
@@ -18,12 +18,14 @@ author_profile: true
 * ACM Transactions on Intelligent Systems and Technology
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
+* IEEE Transactions on Cybernetics
 * Neural Networks
 * Information Sciences
-* NeurIPS2024
-* ICLR2024
+* NeurIPS2024、2025
+* ICML2025
+* ICLR2025
 * NIPS2016
-* IROS2020
+* IROS、ICRA
 * Applied Intelligence
 * IEEE Robotics and Automation Letters
 * 控制与决策
@@ -35,7 +37,8 @@ author_profile: true
 * 2023腾讯开悟人工智能全国公开赛博弈算法高级赛道决赛第四名，[新华网新闻链接](http://www.sc.xinhuanet.com/20240103/4dd72c619a8648f0836c43ba9fec1168/c.html)； [腾讯网新闻链接](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/news/b751f28065b7904f0913004a6c413002)
 * AMMAS 2023(人工智能顶会，CCF B类)非完全信息卡牌游戏竞赛第四名
 * 2023年全国大学生冰壶人工智能挑战赛一等奖
-* AMMAS 2024(人工智能顶会，CCF B类)非完全信息卡牌游戏竞赛第二名
+* AMMAS 2024(人工智能顶会，CCF B类)非完全信息卡牌游戏竞赛亚军
+* 2024腾讯开悟人工智能全国公开赛智能交通信号灯决赛，第13名
   
 ### 其他：
 * 人工智能顶会UAI 2022 (CCF B) Top Reviewer

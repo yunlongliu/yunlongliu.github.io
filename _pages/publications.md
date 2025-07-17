@@ -7,6 +7,8 @@ author_profile: true
 ---
 
 ### Selected Publications: (2014-至今，其中标“\*”为通讯作者，标“\_\_”表示为本人指导研究生，目前主要为硕士研究生)
+除下列论文外，目前以指导学生为第一作者，本人为通讯作者的在投中科院二区及以上论文8篇，内容涵盖深度强化学习理论（表征学习、奖励函数设计、模模仿学习等内容）及在复杂场景下无人系统导航、避障、医疗决策、交通信号灯控制中的应用。课题组后续研究重点将聚焦复杂场景下无人系统（含无人车、四足狗、无人机）导航、避障，已有真车验证视频，将在近期发布。
+
 \[25\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning\. Under Review\.
 
 \[24\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. Safe Treatment of Sepsis: A Data Augmentation-Based Deep Reinforcement Learning Approach\. Under Review\.

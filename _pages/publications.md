@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 ### Selected Publications: (2014-至今，其中标“\*”为通讯作者，标“\_\_”表示为本人指导研究生，目前主要为硕士研究生)
-除下列论文外，目前*在投*中科院二区及以上论文8篇（均为指导学生为第一作者、本人为通讯作者），内容涵盖深度强化学习理论（表征学习、奖励函数设计、模仿学习等内容）及在复杂场景下无人系统导航、避障、医疗决策、交通信号灯控制中的应用。响应总书记关于人工智能研究突出应用导向的号召，通过解决实际问题倒逼技术迭代与产品升级，使研发投入转化为可落地的商业价值，课题组后续研究重点聚焦复杂场景下无人系统（含无人车、四足狗、无人机）导航、避障，已有真车验证视频，将在近期发布。
+除下列论文外，目前*在投*多篇高水平论文（均为指导学生为第一作者、本人为通讯作者），内容涵盖深度强化学习理论（表征学习、奖励函数设计、模仿学习等内容）及在复杂场景下无人系统导航、避障、医疗决策、交通信号灯控制中的应用。通过解决实际问题倒逼技术迭代与产品升级，使研发投入转化为可落地的商业价值，课题组后续研究重点聚焦复杂场景下无人系统（含无人车、四足狗、无人机）导航、避障，真车验证视频请参考实验室bilibili主页。
 
 \[27\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning\. Under Review\.
 
@@ -15,9 +15,9 @@ author_profile: true
 
 \[25\] <u>Lai Jinyang</u>, <u>Jiang Zejie</u>, __Liu Yunlong\*__\. DARE to Navigate: Spatiotemporal Dynamic Augmented Radar Encoder for Obstacle Detection and Avoidance in Crowded Environments\. IEEE Robotics and Automation Letters, 11:2, 1930-1937, 2026.\(机器人领域顶刊，中科院二区\). 
 
-\[24\] <u>Liang Dayang</u>, __Liu Yunlong\*__\.Learning Representations via Dynamics-based Behavioral Similarity for Deep Reinforcement Learning\. Neural Networks, 197:108468, 2026\. \(中科院二区，TOP期刊\).
+\[24\] <u>Liang Dayang</u>, __Liu Yunlong\*__\. Learning Representations via Dynamics-based Behavioral Similarity for Deep Reinforcement Learning\. Neural Networks, 197:108468, 2026\. \(中科院二区，TOP期刊\).
 
-\[23\] <u>Zhang Yaru</u>, <u>Chen Kaizhou</u>, __Liu Yunlong\*__\. Causal Representation Learning in Offline Visual Reinforcement Learning\. Knowledge-Based Systems, 320: 113565, 2025.\. \(中科院一区，TOP期刊\).
+\[23\] <u>Zhang Yaru</u>, <u>Chen Kaizhou</u>, __Liu Yunlong\*__\. Causal Representation Learning in Offline Visual Reinforcement Learning\. Knowledge-Based Systems, 320: 113565, 2025\. \(中科院一区，TOP期刊\).
 
 \[22\] <u>张祺薇</u>, 林彬, __刘云龙\*__\. 基于顺序耦合对抗学习的脓毒症序列生成方法\. 计算机工程, 已录用, 2025\.
 

@@ -13,11 +13,11 @@ author_profile: true
 
 \[28\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. Safe Treatment of Sepsis: A Data Augmentation-Based Deep Reinforcement Learning Approach\. Under Review\.
 
-\[27\] <u>Liang Dayang</u>, <u>Liu Ruihan</u>, Wang Lipeng, __Liu Yunlong\*__\, An Bo. Task-Aware Exploration via a Predictive Bisimulation Metric\. Forty-third International Conference on Machine Learning (ICML 2026), Seoul, South Korea, 2026.\(机器学习领域顶会，CCF A类，已录用\). 
+\[27\] <u>Liang Dayang</u>, <u>Liu Ruihan</u>, Wang Lipeng, __Liu Yunlong\*__\, An Bo. Task-Aware Exploration via a Predictive Bisimulation Metric\. Forty-third International Conference on Machine Learning (ICML 2026), Seoul, South Korea, 2026\. \(机器学习领域顶会，CCF A类，已录用\). 
 
-\[26\] <u>Jiang Zejie</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. BEV-OSP: Obstacle State Prediction in Bird's-Eye View to Enable Obstacle Avoidance and Navigation in Dynamic Environments\. IEEE Robotics and Automation Letters, 2026.\(机器人领域顶刊，中科院二区，已录用\). 
+\[26\] <u>Jiang Zejie</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. BEV-OSP: Obstacle State Prediction in Bird's-Eye View to Enable Obstacle Avoidance and Navigation in Dynamic Environments\. IEEE Robotics and Automation Letters, 2026\. \(机器人领域顶刊，中科院二区，已录用\). 
 
-\[25\] <u>Lai Jinyang</u>, <u>Jiang Zejie</u>, __Liu Yunlong\*__\. DARE to Navigate: Spatiotemporal Dynamic Augmented Radar Encoder for Obstacle Detection and Avoidance in Crowded Environments\. IEEE Robotics and Automation Letters, 11:2, 1930-1937, 2026.\(机器人领域顶刊，中科院二区\). 
+\[25\] <u>Lai Jinyang</u>, <u>Jiang Zejie</u>, __Liu Yunlong\*__\. DARE to Navigate: Spatiotemporal Dynamic Augmented Radar Encoder for Obstacle Detection and Avoidance in Crowded Environments\. IEEE Robotics and Automation Letters, 11:2, 1930-1937, 2026\. \(机器人领域顶刊，中科院二区\)\. 
 
 \[24\] <u>Liang Dayang</u>, __Liu Yunlong\*__\. Learning Representations via Dynamics-based Behavioral Similarity for Deep Reinforcement Learning\. Neural Networks, 197:108468, 2026\. \(中科院二区，TOP期刊\).
 

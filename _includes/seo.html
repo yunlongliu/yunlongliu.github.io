@@ -12,7 +12,9 @@
   {% assign localized_site_title = "Yunlong Liu" %}
   {% assign localized_site_locale = "en_US" %}
 {% endif %}
-{% if page.title %}
+{% if page.url == "/about-en/" %}
+  {% assign seo_title = "Yunlong Liu" %}
+{% elsif page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: localized_site_title %}
 {% endif %}
 

@@ -8,13 +8,6 @@ classes: english-profile-page
 
 <div class="language-switch" aria-label="Language"><a href="/service/" lang="zh">中文</a><span aria-hidden="true">/</span><a href="/service-en/" lang="en" aria-current="page">English</a></div>
 
-<nav class="profile-local-nav" aria-label="English pages">
-  <a href="/about-en/">About</a>
-  <a href="/publications-en/">Publications</a>
-  <a href="/students-en/">Students</a>
-  <a href="/service-en/" aria-current="page">Academic Service</a>
-</nav>
-
 ## Program Committee Service
 
 - IJCAI Program Committee Board member (2022–2024)
@@ -41,7 +34,7 @@ classes: english-profile-page
 ## Other Service and Roles
 
 - Top Reviewer for leading AI conferences, including ICML and UAI.
-- Communications reviewer for the National Natural Science Foundation of China.
+- External proposal reviewer for the National Natural Science Foundation of China.
 - Thesis reviewer for the bachelor's, master's, and doctoral theses reviewed by the Academic Degrees and Graduate Education Development Center of the Ministry of Education.
 - Project reviewer for public institutions and companies including the Xiamen Municipal Bureau of Commerce, Xiamen Software Industry Association, Xiamen Free Trade Zone, and Xiamen Jinyuan Group.
 - Member of the Chinese Association of Automation's Technical Committee on Adaptive Dynamic Programming and Reinforcement Learning.

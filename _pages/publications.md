@@ -11,11 +11,11 @@ author_profile: true
 
 \[29\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning\. Under Review\.
 
-\[28\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. A data augmentation-based deep reinforcement learning approach for high-risk states avoidance in sepsis treatment\. Applied Intelligence, 56(16), Article 496, 2026\. doi:10.1007/s10489-026-07393-w. 
+\[28\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. A data augmentation-based deep reinforcement learning approach for high-risk states avoidance in sepsis treatment\. Applied Intelligence, 56(16), Article 496, 2026. (中科院三区). doi:10.1007/s10489-026-07393-w. 
 
-\[27\] <u>Liang Dayang</u>, Liu Ruihan, Wan Lipeng, __Liu Yunlong\*__, An Bo. Task-Aware Exploration via a Predictive Bisimulation Metric\. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306:73336–73355, 2026.
+\[27\] <u>Liang Dayang</u>, Liu Ruihan, Wan Lipeng, __Liu Yunlong\*__, An Bo. Task-Aware Exploration via a Predictive Bisimulation Metric\. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306:73336–73355, 2026. (机器学习领域顶会，CCF A类).
 
-\[26\] <u>Jiang Zejie</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. BEV-OSP: Obstacle State Prediction in Bird’s-Eye View to Enable Obstacle Avoidance and Navigation in Dynamic Environments\. IEEE Robotics and Automation Letters, 11(7):7924–7931, 2026. doi:10.1109/LRA.2026.3692074.
+\[26\] <u>Jiang Zejie</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. BEV-OSP: Obstacle State Prediction in Bird’s-Eye View to Enable Obstacle Avoidance and Navigation in Dynamic Environments\. IEEE Robotics and Automation Letters, 11(7):7924–7931, 2026. (机器人领域顶刊，中科院二区). doi:10.1109/LRA.2026.3692074.
 
 \[25\] <u>Lai Jinyang</u>, <u>Jiang Zejie</u>, __Liu Yunlong\*__\. DARE to Navigate: Spatiotemporal Dynamic Augmented LiDAR Encoder for Obstacle Detection and Avoidance in Crowded Environments\. IEEE Robotics and Automation Letters, 11(2):1930–1937, February 2026. doi:10.1109/LRA.2025.3645654.
 
@@ -51,7 +51,7 @@ author_profile: true
 
 \[9\] <u>Yu Danning</u>, <u>Ni Kun</u>, __Liu Yunlong\*__\. Deep Q\-Network with Predictive State Models in Partially Observable Domains\. Mathematical Problems in Engineering, 2020:1\-9,2020\. \(SCI\)
 
-\[8\] __Liu Yunlong\*__, <u>Zheng Jianyang</u>\. Online learning and planning in partially observable domains without prior knowledge\. ICML 2019 Workshop on the Generative Modeling and Model\-Based Reasoning for Robotics and AI, 2019.
+\[8\] __Liu Yunlong\*__, <u>Zheng Jianyang</u>\. Online learning and planning in partially observable domains without prior knowledge\. ICML 2019 Workshop on the Generative Modeling and Model\-Based Reasoning for Robotics and AI, 2019. (ICML主会为CCF A类会议；本文发表于Workshop).
 
 \[7\] <u>Ni Kun</u>, <u>Yu Danning</u>, __Liu Yunlong\*__\. Attention\-Based Deep Q\-Network in Complex Systems//International Conference on Neural Information Processing \(ICONIP2019\), 2019: 323-332\.\(CCF C类会议\)
 

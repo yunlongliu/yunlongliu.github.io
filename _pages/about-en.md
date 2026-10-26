@@ -24,7 +24,7 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
       <a class="profile-button" href="/publications-en/">Publications</a>
       <a class="profile-button" href="/students-en/">Students and Alumni</a>
       <a class="profile-button" href="/service-en/">Academic Service</a>
-      <a class="profile-button" href="https://youtu.be/WL4pwqlm0bo">Real-World Demonstration Video</a>
+      <a class="profile-button" href="https://www.youtube.com/@XMU-DMU-Lab">Lab Video Channel</a>
     </div>
   </header>
 
@@ -106,5 +106,5 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
     <p class="profile-note">When emailing, please attach your CV directly to the message rather than as a cloud-hosted attachment. Direct attachments are easier to preview on mobile devices.</p>
   </section>
 
-  <p class="profile-note">The supplementary video for my DARE to Navigate paper shows the real-world robot navigation experiments: <a href="https://youtu.be/WL4pwqlm0bo">Watch the video</a>.</p>
+  <p class="profile-note">The XMU-DMU-Lab YouTube channel features two videos, including the real-world robot navigation experiments for my DARE to Navigate paper: <a href="https://www.youtube.com/@XMU-DMU-Lab">Visit the channel</a>.</p>
 </div>

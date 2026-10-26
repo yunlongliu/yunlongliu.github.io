@@ -12,7 +12,7 @@ classes: english-profile-page
 
 An asterisk (*) marks the corresponding author. Underlined names indicate current or former graduate students supervised by Yunlong Liu.
 
-In addition to the publications below, several papers are under review. These papers are led by supervised students as first authors, with Liu as corresponding author. Topics include deep reinforcement learning theory (representation learning, reward design, and imitation learning) and applications in autonomous navigation and obstacle avoidance, medical decision-making, and traffic signal control. Ongoing work focuses on navigation, obstacle avoidance, and landing for autonomous systems—including autonomous vehicles, quadruped robots, and UAVs—in complex and extreme environments. The XMU-DMU-Lab YouTube channel features two videos, including the real-world robot navigation experiments for DARE to Navigate: [Visit the channel](https://www.youtube.com/@XMU-DMU-Lab).
+In addition to the publications below, several papers are under review. These papers are led by supervised students as first authors, with Liu as corresponding author. Topics include deep reinforcement learning theory (representation learning, reward design, and imitation learning) and applications in autonomous navigation and obstacle avoidance, medical decision-making, and traffic signal control. Ongoing work focuses on navigation, obstacle avoidance, and landing for autonomous systems—including autonomous vehicles, quadruped robots, and UAVs—in complex and extreme environments.
 
 \[29\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong*__. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning. Under review.
 

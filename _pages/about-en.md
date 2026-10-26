@@ -13,21 +13,30 @@ classes: english-profile-page
     <a href="/about-en/" lang="en" aria-current="page">English</a>
   </nav>
 
+  <nav class="profile-local-nav" aria-label="English pages">
+    <a href="/about-en/" aria-current="page">About</a>
+    <a href="/publications-en/">Publications</a>
+    <a href="/students-en/">Students</a>
+    <a href="/service-en/">Academic Service</a>
+  </nav>
+
   <header class="profile-hero">
     <p class="profile-eyebrow">Xiamen University · School of Aerospace Engineering</p>
     <p class="profile-role">Associate Professor · Ph.D. Supervisor · Department of Automation</p>
     <p class="profile-lead">My research develops learning and decision-making methods for intelligent agents, with applications in embodied intelligence, autonomous systems, healthcare, and complex dynamic environments.</p>
     <div class="profile-actions">
       <a class="profile-button profile-button-primary" href="mailto:ylliu@xmu.edu.cn">Email Yunlong</a>
-      <a class="profile-button" href="/publications/">Publications</a>
-      <a class="profile-button" href="https://space.bilibili.com/1688395866">Lab videos</a>
+      <a class="profile-button" href="/publications-en/">Publications</a>
+      <a class="profile-button" href="/students-en/">Students and Alumni</a>
+      <a class="profile-button" href="/service-en/">Academic Service</a>
+      <a class="profile-button" href="https://space.bilibili.com/1688395866">Lab videos (Bilibili)</a>
     </div>
   </header>
 
   <section class="profile-section">
     <h2>About</h2>
     <p>Yunlong Liu is an Associate Professor and Ph.D. Supervisor in the Department of Automation, School of Aerospace Engineering, Xiamen University. He was a Visiting Scholar in the Department of Computer Science at the University of California, Los Angeles (UCLA), and is recognized as a Fujian High-Level Talent.</p>
-    <p>His research has appeared in leading conferences and journals, including ICML, IJCAI, AAMAS, <em>IEEE Robotics and Automation Letters</em>, <em>Neural Networks</em>, <em>International Journal of Approximate Reasoning</em>, <em>Information Sciences</em>, and <em>Knowledge-Based Systems</em>. See the <a href="/publications/">publication list</a> for full citations and current status.</p>
+    <p>His research has appeared in leading conferences and journals, including ICML, IJCAI, AAMAS, <em>IEEE Robotics and Automation Letters</em>, <em>Neural Networks</em>, <em>International Journal of Approximate Reasoning</em>, <em>Information Sciences</em>, and <em>Knowledge-Based Systems</em>. See the <a href="/publications-en/">publication list</a> for full citations and current status.</p>
   </section>
 
   <section class="profile-section">
@@ -64,7 +73,7 @@ classes: english-profile-page
         <p><strong>Journals:</strong> <em>IEEE Transactions on Cybernetics</em>; <em>IEEE Transactions on Neural Networks and Learning Systems</em>; <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>; <em>ACM Transactions on Intelligent Systems and Technology</em>; <em>Neural Networks</em>; <em>Information Sciences</em>; <em>Applied Intelligence</em>; <em>IEEE Robotics and Automation Letters</em>; and other journals.</p>
       </div>
     </div>
-    <p>He is a Top Reviewer for leading AI conferences, including ICML and UAI; a communications reviewer for the National Natural Science Foundation of China; and a thesis reviewer for the Ministry of Education's Academic Degrees and Graduate Education Development Center. He also reviews projects for public and industry organizations in Xiamen and serves on the Chinese Association of Automation's professional committee on Adaptive Dynamic Programming and Reinforcement Learning, as well as the CCF-AI Multi-Agent Systems Group.</p>
+    <p>He is a Top Reviewer for leading AI conferences, including ICML and UAI; a communications reviewer for the National Natural Science Foundation of China; and a thesis reviewer for the Ministry of Education's Academic Degrees and Graduate Education Development Center. He also reviews projects for public and industry organizations in Xiamen and serves on the Chinese Association of Automation's professional committee on Adaptive Dynamic Programming and Reinforcement Learning, as well as the CCF-AI Multi-Agent Systems Group. See the <a href="/service-en/">full academic service record</a>.</p>
   </section>
 
   <section class="profile-section">
@@ -86,7 +95,7 @@ classes: english-profile-page
     <div>
       <h2>Students and Alumni</h2>
       <p>Graduates have continued to doctoral study or joined organizations including Alibaba DAMO Academy, DiDi, Huawei, TP-Link, Industrial Bank, and universities.</p>
-      <a class="profile-text-link" href="/students/">View student cohorts and alumni destinations →</a>
+      <a class="profile-text-link" href="/students-en/">View student cohorts and alumni destinations →</a>
     </div>
   </section>
 
@@ -96,7 +105,7 @@ classes: english-profile-page
     <p>We welcome motivated master's and Ph.D. students, as well as postdoctoral researchers, interested in reinforcement learning and its applications in embodied intelligence, video games, healthcare, and cybersecurity. Group members receive systematic research training and can contribute to product-oriented projects with industry partners.</p>
     <div class="profile-actions">
       <a class="profile-button profile-button-primary" href="mailto:ylliu@xmu.edu.cn">Contact Yunlong</a>
-      <a class="profile-button" href="/service/">Academic service</a>
+      <a class="profile-button" href="/service-en/">Academic service</a>
     </div>
     <p class="profile-note">When emailing, please attach your CV directly to the message rather than using a cloud attachment. Direct attachments are easier to preview on mobile devices.</p>
   </section>

@@ -2,11 +2,18 @@
 layout: archive
 title: "Publications"
 permalink: /publications-en/
-author_profile: true
+author_profile: false
 classes: english-profile-page
 ---
 
 <div class="language-switch" aria-label="Language"><a href="/publications/" lang="zh">中文</a><span aria-hidden="true">/</span><a href="/publications-en/" lang="en" aria-current="page">English</a></div>
+
+<nav class="profile-local-nav" aria-label="English pages">
+  <a href="/about-en/">About</a>
+  <a href="/publications-en/" aria-current="page">Publications</a>
+  <a href="/students-en/">Students</a>
+  <a href="/service-en/">Academic Service</a>
+</nav>
 
 ### Selected Publications (2014–2026)
 

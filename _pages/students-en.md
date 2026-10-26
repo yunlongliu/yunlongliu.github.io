@@ -8,13 +8,6 @@ classes: english-profile-page
 
 <div class="language-switch" aria-label="Language"><a href="/students/" lang="zh">中文</a><span aria-hidden="true">/</span><a href="/students-en/" lang="en" aria-current="page">English</a></div>
 
-<nav class="profile-local-nav" aria-label="English pages">
-  <a href="/about-en/">About</a>
-  <a href="/publications-en/">Publications</a>
-  <a href="/students-en/" aria-current="page">Students</a>
-  <a href="/service-en/">Academic Service</a>
-</nav>
-
 ## Ph.D. Students
 
 ### Entering in 2024

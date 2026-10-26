@@ -14,13 +14,7 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
     <a href="/about-en/" lang="en" aria-current="page">English</a>
   </nav>
 
-  <nav class="profile-local-nav" aria-label="English pages">
-    <a href="/about-en/" aria-current="page">About</a>
-    <a href="/publications-en/">Publications</a>
-    <a href="/students-en/">Students</a>
-    <a href="/service-en/">Academic Service</a>
-  </nav>
-
+  
   <header class="profile-hero">
     <p class="profile-eyebrow">Xiamen University · School of Aerospace Engineering</p>
     <p class="profile-role">Associate Professor · Ph.D. Supervisor · Department of Automation</p>
@@ -35,7 +29,7 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
 
   <section class="profile-section">
     <h2>About</h2>
-    <p>I am an Associate Professor and Ph.D. Supervisor in the Department of Automation, School of Aerospace Engineering, Xiamen University. I was a Visiting Scholar in the Department of Computer Science at the University of California, Los Angeles (UCLA), and I am recognized as a Fujian High-Level Talent.</p>
+    <p>I am an Associate Professor and Ph.D. Supervisor in the Department of Automation, School of Aerospace Engineering, Xiamen University. I was a Visiting Scholar in the Department of Computer Science at the University of California, Los Angeles (UCLA), and I have been recognized as a High-Level Talent of Fujian Province.</p>
     <p>My research has appeared in leading conferences and journals, including ICML, IJCAI, AAMAS, <em>IEEE Robotics and Automation Letters</em>, <em>Neural Networks</em>, <em>International Journal of Approximate Reasoning</em>, <em>Information Sciences</em>, and <em>Knowledge-Based Systems</em>. The <a href="/publications-en/">publication list</a> provides full citations and publication-status information.</p>
   </section>
 
@@ -78,7 +72,7 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
 
   <section class="profile-section">
     <h2>Selected Awards and Student Achievements</h2>
-    <p>My students' selected achievements include:</p>
+    <p>Selected achievements by my students include:</p>
     <ul class="profile-awards">
       <li><strong>2025 China Innovation and Entrepreneurship Competition, Embodied Intelligence Track:</strong> Excellence Award in the Startup Group, placing in the top 11 among more than 300 teams.</li>
       <li><strong>2024 AAMAS non-perfect-information card-game competition:</strong> Runner-up; the team placed fourth in 2023.</li>

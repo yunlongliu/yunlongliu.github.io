@@ -29,7 +29,7 @@ classes: english-profile-page
       <a class="profile-button" href="/publications-en/">Publications</a>
       <a class="profile-button" href="/students-en/">Students and Alumni</a>
       <a class="profile-button" href="/service-en/">Academic Service</a>
-      <a class="profile-button" href="https://space.bilibili.com/1688395866">Lab videos (Bilibili)</a>
+      <span class="profile-button profile-button-static">Lab videos: Bilibili channel</span>
     </div>
   </header>
 

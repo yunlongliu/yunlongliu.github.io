@@ -3,8 +3,10 @@
 <meta charset="utf-8">
 
 {% include seo.html %}
+{% assign localized_site_title = site.title %}
+{% if page.url contains "-en" %}{% assign localized_site_title = "Yunlong Liu" %}{% endif %}
 
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ localized_site_title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">

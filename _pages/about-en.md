@@ -24,6 +24,7 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
       <a class="profile-button" href="/publications-en/">Publications</a>
       <a class="profile-button" href="/students-en/">Students and Alumni</a>
       <a class="profile-button" href="/service-en/">Academic Service</a>
+      <a class="profile-button" href="https://space.bilibili.com/1688395866">Lab videos on Bilibili</a>
     </div>
   </header>
 
@@ -105,5 +106,5 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
     <p class="profile-note">When emailing, please attach your CV directly to the message rather than as a cloud-hosted attachment. Direct attachments are easier to preview on mobile devices.</p>
   </section>
 
-  <p class="profile-note">The laboratory also shares real-robot validation videos on Bilibili; the channel interface and video materials are primarily in Chinese.</p>
+  <p class="profile-note">The laboratory also shares real-robot validation videos on <a href="https://space.bilibili.com/1688395866">Bilibili</a>; the channel interface and video materials are primarily in Chinese.</p>
 </div>

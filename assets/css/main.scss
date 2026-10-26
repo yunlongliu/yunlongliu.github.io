@@ -250,3 +250,55 @@
   color: #53677a;
   cursor: default;
 }
+
+/* Bilingual academic homepage news */
+.profile-news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.profile-news-item {
+  display: grid;
+  grid-template-columns: 8.5rem minmax(0, 1fr);
+  gap: 0.9rem;
+  padding: 0.9rem 0;
+  border-bottom: 1px solid #dbe5ec;
+}
+.profile-news-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.profile-news-date {
+  color: #176b78;
+  font-weight: 750;
+}
+.profile-news-category {
+  color: #64748b;
+  font-size: 0.82rem;
+}
+.profile-news-heading {
+  margin: 0 0 0.25rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.profile-news-summary {
+  margin: 0;
+  color: #526579;
+  font-size: 0.94rem;
+  line-height: 1.65;
+}
+.profile-news-item a {
+  color: #0f6577;
+}
+@media (max-width: 600px) {
+  .profile-news-item {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+  }
+  .profile-news-meta {
+    flex-direction: row;
+    align-items: center;
+    gap: 0.65rem;
+  }
+}

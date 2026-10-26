@@ -12,13 +12,13 @@ classes: english-profile-page
 
 An asterisk (*) marks the corresponding author. Underlined names indicate current or former graduate students supervised by Yunlong Liu.
 
-In addition to the publications below, several papers are under review. These papers are led by supervised students as first authors, with Liu as corresponding author. Topics include deep reinforcement learning theory (representation learning, reward design, and imitation learning) and applications in autonomous navigation and obstacle avoidance, medical decision-making, and traffic signal control. Ongoing work focuses on navigation, obstacle avoidance, and landing for autonomous systems—including autonomous vehicles, quadruped robots, and UAVs—in complex and extreme environments. The laboratory also shares real-robot validation videos on Bilibili; the channel interface and video materials are primarily in Chinese.
+In addition to the publications below, several papers are under review. These papers are led by supervised students as first authors, with Liu as corresponding author. Topics include deep reinforcement learning theory (representation learning, reward design, and imitation learning) and applications in autonomous navigation and obstacle avoidance, medical decision-making, and traffic signal control. Ongoing work focuses on navigation, obstacle avoidance, and landing for autonomous systems—including autonomous vehicles, quadruped robots, and UAVs—in complex and extreme environments. The laboratory also shares real-robot validation videos on [Bilibili](https://space.bilibili.com/1688395866); the channel interface and video materials are primarily in Chinese.
 
 \[29\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong*__. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning. Under review.
 
 \[28\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong*__. A data augmentation-based deep reinforcement learning approach for high-risk states avoidance in sepsis treatment. Applied Intelligence, 56(16), Article 496, 2026. (Chinese Academy of Sciences (CAS) Q3). doi:10.1007/s10489-026-07393-w.
 
-\[27\] <u>Liang Dayang</u>, Liu Ruihan, Wan Lipeng, __Liu Yunlong*__, An Bo. Task-Aware Exploration via a Predictive Bisimulation Metric. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306:73336–73355, 2026. (Top conference in machine learning; CCF A).
+\[27\] <u>Liang Dayang</u>, <u>Liu Ruihang</u>, Wan Lipeng, __Liu Yunlong*__, An Bo. Task-Aware Exploration via a Predictive Bisimulation Metric. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306:73336–73355, 2026. (Top conference in machine learning; CCF A).
 
 \[26\] <u>Jiang Zejie</u>, <u>Lai Jinyang</u>, __Liu Yunlong*__. BEV-OSP: Obstacle State Prediction in Bird’s-Eye View to Enable Obstacle Avoidance and Navigation in Dynamic Environments. IEEE Robotics and Automation Letters, 11(7):7924–7931, 2026. (Leading robotics journal; CAS Q2). doi:10.1109/LRA.2026.3692074.
 

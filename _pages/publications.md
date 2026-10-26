@@ -11,7 +11,7 @@ author_profile: true
 
 \[29\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning\. Under Review\.
 
-\[28\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. Safe Treatment of Sepsis: A Data Augmentation-Based Deep Reinforcement Learning Approach\. Under Review\.
+\[28\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. A data augmentation-based deep reinforcement learning approach for high-risk states avoidance in sepsis treatment\. Applied Intelligence\. 2026\. \(中科院三区，已录用\). 
 
 \[27\] <u>Liang Dayang</u>, <u>Liu Ruihan</u>, Wang Lipeng, __Liu Yunlong\*__, An Bo. Task-Aware Exploration via a Predictive Bisimulation Metric\. Forty-third International Conference on Machine Learning (ICML 2026), Seoul, South Korea, 2026\. \(机器学习领域顶会，CCF A类，已录用\). 
 

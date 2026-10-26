@@ -28,6 +28,26 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
     </div>
   </header>
 
+<section class="profile-section profile-news-section" id="news">
+  <h2>News</h2>
+  <ul class="profile-news-list">
+    {% for item in site.data.news %}
+    <li class="profile-news-item">
+      <div class="profile-news-meta">
+        <span class="profile-news-date">{{ item.date }}</span>
+        <span class="profile-news-category">{% if page.url contains '/about-en/' %}{{ item.category_en }}{% else %}{{ item.category_zh }}{% endif %}</span>
+      </div>
+      <div class="profile-news-content">
+        <p class="profile-news-heading">
+          {% if item.url %}<a href="{{ item.url }}">{% endif %}{% if page.url contains '/about-en/' %}{{ item.title_en }}{% else %}{{ item.title_zh }}{% endif %}{% if item.url %}</a>{% endif %}
+        </p>
+        <p class="profile-news-summary">{% if page.url contains '/about-en/' %}{{ item.summary_en }}{% else %}{{ item.summary_zh }}{% endif %}</p>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
   <section class="profile-section">
     <h2>About</h2>
     <p>I am an Associate Professor and Ph.D. Supervisor in the Department of Automation, School of Aerospace Engineering, Xiamen University. I was a Visiting Scholar in the Department of Computer Science at the University of California, Los Angeles (UCLA), and I have been recognized as a High-Level Talent of Fujian Province.</p>
@@ -106,5 +126,4 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
     <p class="profile-note">When emailing, please attach your CV directly to the message rather than as a cloud-hosted attachment. Direct attachments are easier to preview on mobile devices.</p>
   </section>
 
-  <p class="profile-note">The XMU-DMU-Lab YouTube channel features two videos, including the real-world robot navigation experiments for my DARE to Navigate paper: <a href="https://www.youtube.com/@XMU-DMU-Lab">Visit the channel</a>.</p>
 </div>

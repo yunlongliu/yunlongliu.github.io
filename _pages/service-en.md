@@ -35,7 +35,7 @@ classes: english-profile-page
 
 - Top Reviewer for leading AI conferences, including ICML and UAI.
 - External proposal reviewer for the National Natural Science Foundation of China.
-- Thesis reviewer for the bachelor's, master's, and doctoral theses reviewed by the Academic Degrees and Graduate Education Development Center of the Ministry of Education.
+- Reviewer of undergraduate, master's, and doctoral theses for the Ministry of Education's Academic Degrees and Graduate Education Development Center.
 - Project reviewer for public institutions and companies including the Xiamen Municipal Bureau of Commerce, Xiamen Software Industry Association, Xiamen Free Trade Zone, and Xiamen Jinyuan Group.
 - Member of the Chinese Association of Automation's Technical Committee on Adaptive Dynamic Programming and Reinforcement Learning.
 - Member of the CCF-AI Multi-Agent Systems Group.

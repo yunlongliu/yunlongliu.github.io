@@ -222,3 +222,31 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Local navigation for the English profile and its translated sections */
+.profile-local-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 1.15rem;
+  margin: 0 0 1.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid #dbe5ec;
+  border-radius: 10px;
+  background: #fff;
+}
+.profile-local-nav a {
+  color: #0f5e72;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+.profile-local-nav a:hover,
+.profile-local-nav a:focus,
+.profile-local-nav a[aria-current="page"] {
+  color: #17324d;
+  text-decoration: underline;
+}
+.english-profile .profile-button-static {
+  color: #53677a;
+  cursor: default;
+}

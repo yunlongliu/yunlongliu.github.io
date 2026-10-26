@@ -39,3 +39,186 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* English academic profile and language switch */
+.language-switch {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  margin: 0 0 1.25rem;
+  color: #64748b;
+  font-size: 0.88rem;
+}
+.language-switch a {
+  color: #0f5e72;
+  font-weight: 700;
+  text-decoration: none;
+}
+.language-switch a[aria-current="page"] {
+  color: #17324d;
+}
+.language-switch a:hover,
+.language-switch a:focus {
+  text-decoration: underline;
+}
+.english-profile {
+  --profile-ink: #18324a;
+  --profile-muted: #53677a;
+  --profile-accent: #176b78;
+  --profile-border: #dbe5ec;
+  color: var(--profile-ink);
+}
+.english-profile .profile-hero {
+  margin: 0 0 2rem;
+  padding: clamp(1.4rem, 4vw, 2.5rem);
+  border: 1px solid var(--profile-border);
+  border-top: 4px solid var(--profile-accent);
+  border-radius: 14px;
+  background: linear-gradient(135deg, #f4f8fb 0%, #edf5f4 100%);
+}
+.english-profile .profile-eyebrow {
+  margin: 0 0 0.5rem;
+  color: var(--profile-accent);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+.english-profile .profile-role {
+  margin: 0 0 1.1rem;
+  color: var(--profile-muted);
+  font-size: 1rem;
+  font-weight: 650;
+}
+.english-profile .profile-lead {
+  max-width: 48rem;
+  margin: 0 0 1.4rem;
+  color: var(--profile-ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.15rem, 2.2vw, 1.45rem);
+  line-height: 1.55;
+}
+.english-profile .profile-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1rem;
+}
+.english-profile .profile-button {
+  display: inline-block;
+  padding: 0.58rem 0.9rem;
+  border: 1px solid #b8cbd5;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--profile-ink);
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+.english-profile .profile-button:hover,
+.english-profile .profile-button:focus {
+  background: #e8f2f2;
+  transform: translateY(-1px);
+}
+.english-profile .profile-button-primary {
+  border-color: var(--profile-accent);
+  background: var(--profile-accent);
+  color: #fff;
+}
+.english-profile .profile-button-primary:hover,
+.english-profile .profile-button-primary:focus {
+  background: #115663;
+  color: #fff;
+}
+.english-profile .profile-section {
+  margin: 0 0 2rem;
+}
+.english-profile .profile-section h2 {
+  margin: 0 0 0.9rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--profile-border);
+  color: var(--profile-ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.45rem;
+}
+.english-profile .profile-section h3 {
+  margin-top: 0;
+  color: var(--profile-accent);
+  font-size: 1rem;
+}
+.english-profile .profile-section p,
+.english-profile .profile-section li {
+  color: #344b5d;
+  line-height: 1.75;
+}
+.english-profile .profile-section a:not(.profile-button) {
+  color: #0f6577;
+  font-weight: 650;
+}
+.english-profile .profile-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+.english-profile .profile-tags span {
+  padding: 0.38rem 0.72rem;
+  border: 1px solid #d3e2e7;
+  border-radius: 999px;
+  background: #f5f9fa;
+  color: #285267;
+  font-size: 0.84rem;
+  font-weight: 650;
+}
+.english-profile .profile-card-grid,
+.english-profile .profile-two-column {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+.english-profile .profile-card {
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--profile-border);
+  border-radius: 12px;
+  background: #fff;
+}
+.english-profile .profile-card ul {
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+}
+.english-profile .profile-card p:last-child {
+  margin-bottom: 0;
+}
+.english-profile .profile-awards {
+  padding-left: 1.25rem;
+}
+.english-profile .profile-awards li {
+  margin: 0.55rem 0;
+}
+.english-profile .profile-text-link {
+  display: inline-block;
+  margin-top: 0.25rem;
+}
+.english-profile .profile-join {
+  padding: clamp(1.2rem, 3vw, 1.8rem);
+  border: 1px solid #cfe0e2;
+  border-radius: 14px;
+  background: #f1f7f6;
+}
+.english-profile .profile-join h2 {
+  border: 0;
+  padding: 0;
+}
+.english-profile .profile-note {
+  margin: 1rem 0 0;
+  color: #64748b !important;
+  font-size: 0.88rem;
+}
+@media (max-width: 700px) {
+  .english-profile .profile-card-grid,
+  .english-profile .profile-two-column {
+    grid-template-columns: 1fr;
+  }
+}

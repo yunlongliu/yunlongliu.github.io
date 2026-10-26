@@ -21,10 +21,10 @@ author_profile: true
 * IEEE Transactions on Cybernetics
 * Neural Networks
 * Information Sciences
-* NeurIPS2024、2025
-* ICML2025
-* ICLR2025
-* NIPS2016
+* NeurIPS 2024、2025
+* ICML 2025
+* ICLR 2025
+* NeurIPS (NIPS) 2016
 * IROS、ICRA
 * Applied Intelligence
 * IEEE Robotics and Automation Letters
@@ -36,9 +36,9 @@ author_profile: true
 ### 指导学生获奖等: 
 * 2025第十四届中国创新创业大赛——首届具身智能专业赛初创组优胜奖(前11名/300多支参赛队伍)。主办单位：工业和信息化部火炬中心等.
 * 2023腾讯开悟人工智能全国公开赛博弈算法高级赛道决赛第四名，[新华网新闻链接](http://www.sc.xinhuanet.com/20240103/4dd72c619a8648f0836c43ba9fec1168/c.html)； [腾讯网新闻链接](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/news/b751f28065b7904f0913004a6c413002)
-* AMMAS 2023(人工智能顶会，CCF B类)非完全信息卡牌游戏竞赛第四名
+* AAMAS 2023(人工智能顶会，CCF B类)非完全信息卡牌游戏竞赛第四名
 * 2023年全国大学生冰壶人工智能挑战赛一等奖
-* AMMAS 2024(人工智能顶会，CCF B类)非完全信息卡牌游戏竞赛亚军
+* AAMAS 2024(人工智能顶会，CCF B类)非完全信息卡牌游戏竞赛亚军
 * 2024腾讯开悟人工智能全国公开赛智能交通信号灯决赛，第13名
   
 ### 其他：

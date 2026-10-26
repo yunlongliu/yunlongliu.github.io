@@ -2,7 +2,7 @@
 layout: single
 title: "Yunlong Liu"
 permalink: /about-en/
-author_profile: true
+author_profile: false
 classes: english-profile-page
 ---
 

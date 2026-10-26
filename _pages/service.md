@@ -25,7 +25,7 @@ author_profile: true
 * ICML 2025
 * ICLR 2025
 * NeurIPS (NIPS) 2016
-* IROS、ICRA
+* IROS 2020、ICRA
 * Applied Intelligence
 * IEEE Robotics and Automation Letters
 * 控制与决策

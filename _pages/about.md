@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "刘云龙"
+title: "个人主页"
 excerpt: "刘云龙，厦门大学航空航天学院自动化系副教授、博士生导师"
 author_profile: false
 classes: chinese-profile-page

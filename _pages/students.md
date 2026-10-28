@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "学生与校友"
+title: "学生"
 permalink: /students/
 author_profile: true
 

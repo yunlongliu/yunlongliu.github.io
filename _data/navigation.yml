@@ -4,16 +4,16 @@ main:
     url: /
 
   - title: "学术论文"
-    url: /publications/
+    url: /publications/index.html
 
   - title: "科研项目"
     url: /projects/
 
   - title: "学术服务"
-    url: /service/
+    url: /service/index.html
 
   - title: "学生与校友"
-    url: /students/
+    url: /students/index.html
 
   - title: "学术活动"
     url: /activities/

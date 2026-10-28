@@ -8,7 +8,7 @@ author_profile: true
 
 刘云龙，厦门大学航空航天学院自动化系副教授、博士生导师，曾在加州大学洛杉矶分校（UCLA）计算机系访问，入选福建省高层次人才。研究方向包括人工智能、（深度）强化学习与智能决策，关注机器学习在具身智能、医疗健康等领域的应用。相关成果以第一作者或通讯作者发表于 CCF 推荐的 A、B 类会议及相关领域重要期刊，包括 ICML、IJCAI、AAMAS，以及《IEEE Robotics and Automation Letters》《Neural Networks》《International Journal of Approximate Reasoning》《Information Sciences》《Knowledge-Based Systems》等。
 
-学术服务方面，曾任 IJCAI Program Committee Board 成员（2022–2024），并曾担任 AAAI、IJCAI、UAI、AAMAS 和 ICDM 等会议程序委员会委员。承担人工智能与机器人领域的会议和期刊审稿工作，包括 NeurIPS、ICML、ICLR、ICRA、IROS 等会议，以及《IEEE Transactions on Cybernetics》《IEEE Transactions on Neural Networks and Learning Systems》《ACM Transactions on Intelligent Systems and Technology》《Neural Networks》《IEEE Transactions on Systems, Man, and Cybernetics: Systems》《Information Sciences》《Applied Intelligence》《IEEE Robotics and Automation Letters》《控制与决策》等期刊；曾获 ICML、UAI 等会议 Top Reviewer。
+学术服务方面，曾任 IJCAI Program Committee Board 成员（2022–2024），并担任 AAAI、IJCAI、UAI、AAMAS 和 ICDM 等会议程序委员会委员。承担人工智能与机器人领域的会议和期刊审稿工作，包括 NeurIPS、ICML、ICLR、ICRA、IROS 等会议，以及《IEEE Transactions on Cybernetics》《IEEE Transactions on Neural Networks and Learning Systems》《ACM Transactions on Intelligent Systems and Technology》《Neural Networks》《IEEE Transactions on Systems, Man, and Cybernetics: Systems》《Information Sciences》《Applied Intelligence》《IEEE Robotics and Automation Letters》《控制与决策》等期刊；曾获 ICML、UAI 等会议 Top Reviewer。
 
 承担多项国家自然科学基金面上项目、省部级项目及企业合作开发课题，并担任国家自然科学基金通讯评议专家、教育部学位中心论文评审专家和中国自动化学会自适应动态规划与强化学习专业委员会委员。曾为厦门市商务局、厦门市软件协会、厦门市自贸区、厦门金圆集团等单位开展项目评审。团队在工业和信息化部火炬中心等单位举办的2025年第十四届中国创新创业大赛首届具身智能专业赛中获初创组优胜奖，进入300余支参赛队伍前11名。指导学生在2023年腾讯开悟人工智能全国公开赛高级赛道决赛中获第四名，在AAMAS 2023、2024（CCF B类）非完全信息卡牌游戏竞赛中分别获第四名、第二名，并获2023年全国大学生冰壶人工智能挑战赛一等奖。
 

@@ -8,9 +8,9 @@
         <ul class="visible-links">
           {% if page.url contains '-en' %}
             {% assign language_target = '/' %}
-            {% if page.url == '/publications-en/' %}{% assign language_target = '/publications/' %}{% endif %}
-            {% if page.url == '/students-en/' %}{% assign language_target = '/students/' %}{% endif %}
-            {% if page.url == '/service-en/' %}{% assign language_target = '/service/' %}{% endif %}
+            {% if page.url == '/publications-en/' %}{% assign language_target = '/publications/index.html' %}{% endif %}
+            {% if page.url == '/students-en/' %}{% assign language_target = '/students/index.html' %}{% endif %}
+            {% if page.url == '/service-en/' %}{% assign language_target = '/service/index.html' %}{% endif %}
             <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/about-en/">Yunlong Liu</a></li>
             <li class="masthead__menu-item masthead__menu-item--language"><a href="{{ base_path }}{{ language_target }}">中文</a></li>
             <li class="masthead__menu-item"><a href="{{ base_path }}/about-en/">About</a></li>

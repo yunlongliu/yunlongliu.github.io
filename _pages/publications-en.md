@@ -2,11 +2,10 @@
 layout: archive
 title: "Publications"
 permalink: /publications-en/
-author_profile: false
+author: "Yunlong Liu"
+author_profile: true
 classes: english-profile-page
 ---
-
-<div class="language-switch" aria-label="Language"><a href="/publications/" lang="zh">中文</a><span aria-hidden="true">/</span><a href="/publications-en/" lang="en" aria-current="page">English</a></div>
 
 ### Selected Publications (2014–2026)
 

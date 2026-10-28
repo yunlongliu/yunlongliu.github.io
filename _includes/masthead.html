@@ -18,7 +18,7 @@
             <li class="masthead__menu-item"><a href="{{ base_path }}/students-en/index.html">Students</a></li>
             <li class="masthead__menu-item"><a href="{{ base_path }}/service-en/index.html">Academic Service</a></li>
           {% else %}
-            {% assign language_target = '/about-en/' %}
+            {% assign language_target = '/about-en/index.html' %}
             {% if page.url == '/publications/' %}{% assign language_target = '/publications-en/index.html' %}{% endif %}
             {% if page.url == '/students/' %}{% assign language_target = '/students-en/index.html' %}{% endif %}
             {% if page.url == '/service/' %}{% assign language_target = '/service-en/index.html' %}{% endif %}

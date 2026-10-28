@@ -7,21 +7,31 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           {% if page.url contains '-en' %}
+            {% assign language_target = '/' %}
+            {% if page.url == '/publications-en/' %}{% assign language_target = '/publications/' %}{% endif %}
+            {% if page.url == '/students-en/' %}{% assign language_target = '/students/' %}{% endif %}
+            {% if page.url == '/service-en/' %}{% assign language_target = '/service/' %}{% endif %}
             <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/about-en/">Yunlong Liu</a></li>
             <li class="masthead__menu-item"><a href="{{ base_path }}/about-en/">About</a></li>
             <li class="masthead__menu-item"><a href="{{ base_path }}/publications-en/">Publications</a></li>
             <li class="masthead__menu-item"><a href="{{ base_path }}/students-en/">Students</a></li>
             <li class="masthead__menu-item"><a href="{{ base_path }}/service-en/">Academic Service</a></li>
+            <li class="masthead__menu-item"><a href="{{ base_path }}{{ language_target }}">中文</a></li>
           {% else %}
+            {% assign language_target = '/about-en/' %}
+            {% if page.url == '/publications/' %}{% assign language_target = '/publications-en/' %}{% endif %}
+            {% if page.url == '/students/' %}{% assign language_target = '/students-en/' %}{% endif %}
+            {% if page.url == '/service/' %}{% assign language_target = '/service-en/' %}{% endif %}
             <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
             {% for link in site.data.navigation.main %}
               {% if link.url contains 'http' %}
                 {% assign domain = '' %}
-                {% else %}
+              {% else %}
                 {% assign domain = base_path %}
               {% endif %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endfor %}
+            <li class="masthead__menu-item"><a href="{{ base_path }}{{ language_target }}">English</a></li>
           {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>

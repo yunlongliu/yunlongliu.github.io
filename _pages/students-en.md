@@ -2,11 +2,10 @@
 layout: archive
 title: "Students"
 permalink: /students-en/
-author_profile: false
+author: "Yunlong Liu"
+author_profile: true
 classes: english-profile-page
 ---
-
-<div class="language-switch" aria-label="Language"><a href="/students/" lang="zh">中文</a><span aria-hidden="true">/</span><a href="/students-en/" lang="en" aria-current="page">English</a></div>
 
 ## Ph.D. Students
 

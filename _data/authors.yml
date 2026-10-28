@@ -16,3 +16,10 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+Yunlong Liu:
+  name        : "Yunlong Liu"
+  avatar      : "profile_liu.jpg"
+  bio         : "Associate Professor and Ph.D. Supervisor, Department of Automation, School of Aerospace Engineering, Xiamen University."
+  location    : "Xiamen, China"
+  email       : "ylliu@xmu.edu.cn"

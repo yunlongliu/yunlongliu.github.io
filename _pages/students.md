@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Students"
+title: "学生与校友"
 permalink: /students/
 author_profile: true
 
 ---
 
-PhD Students
+博士生
 ---
 #### 2024级
 * 陈开洲
@@ -14,7 +14,7 @@ PhD Students
 #### 2022级
 * 梁大杨 (硕博连读)
   
-Master Students
+硕士生
 ---
 ### 在读硕士生（按入学年份）
 

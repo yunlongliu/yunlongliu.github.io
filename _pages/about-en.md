@@ -32,4 +32,4 @@ Yunlong Liu is an Associate Professor and Ph.D. Supervisor in the Department of 
 
 I welcome motivated master's and Ph.D. students, as well as postdoctoral researchers, interested in reinforcement learning and its applications in embodied intelligence, video games, healthcare, and cybersecurity. My group offers systematic research training and product-level development projects in collaboration with companies. To get in touch, email ylliu@xmu.edu.cn. Please attach your CV directly to the email rather than using a cloud-hosted attachment, which may not preview well on mobile devices.
 
-The lab's research videos are available on [XMU-DMU Lab YouTube channel](https://www.youtube.com/@XMU-DMU-Lab).
+Explore research videos from the [XMU-DMU Lab channel](https://www.youtube.com/@XMU-DMU-Lab).

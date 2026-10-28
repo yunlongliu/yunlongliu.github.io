@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Activities"
+title: "学术活动"
 permalink: /activities/
 author_profile: true
 

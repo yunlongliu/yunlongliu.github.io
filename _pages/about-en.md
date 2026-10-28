@@ -1,26 +1,14 @@
 ---
 layout: single
-title: "Yunlong Liu"
 permalink: /about-en/
-author_profile: false
-classes: english-profile-page
+title: "Yunlong Liu"
+excerpt: "Yunlong Liu, Associate Professor and Ph.D. Supervisor at Xiamen University."
+author: "Yunlong Liu"
+author_profile: true
 description: "Yunlong Liu, Associate Professor at Xiamen University. Research in reinforcement learning, embodied intelligence, autonomous systems, and decision-making."
 ---
 
-<div class="english-profile">
-
-  <header class="profile-hero">
-    <p class="profile-eyebrow">Xiamen University · School of Aerospace Engineering</p>
-    <p class="profile-role">Associate Professor · Ph.D. Supervisor · Department of Automation</p>
-    <p class="profile-lead">I develop learning and decision-making methods for intelligent agents, with applications in embodied intelligence, autonomous systems, healthcare, and complex dynamic environments.</p>
-    <div class="profile-actions">
-      <a class="profile-button profile-button-primary" href="mailto:ylliu@xmu.edu.cn">Email me</a>
-      <a class="profile-button" href="/publications-en/">Publications</a>
-      <a class="profile-button" href="/students-en/">Students and Alumni</a>
-      <a class="profile-button" href="/service-en/">Academic Service</a>
-      <a class="profile-button" href="https://www.youtube.com/@XMU-DMU-Lab">Lab Video Channel</a>
-    </div>
-  </header>
+Yunlong Liu is an Associate Professor and Ph.D. Supervisor in the Department of Automation, School of Aerospace Engineering, Xiamen University. He was a Visiting Scholar in the Department of Computer Science at the University of California, Los Angeles (UCLA), and is recognized as a High-Level Talent of Fujian Province. His research interests include artificial intelligence, (deep) reinforcement learning, intelligent decision-making, and machine learning applications in embodied intelligence and healthcare. His work has appeared as first-author or corresponding-author publications at ICML, IJCAI, and AAMAS, and in leading journals including *IEEE Robotics and Automation Letters*, *Neural Networks*, *International Journal of Approximate Reasoning*, *Information Sciences*, and *Knowledge-Based Systems*. He served on the IJCAI Program Committee Board (2022–2024), and as a program committee member for AAAI (2019–2025), IJCAI (2017, 2021–2024), UAI (2021–2025), AAMAS (2020), and ICDM (2024). He reviews for leading conferences and journals, including *IEEE Transactions on Cybernetics*, *IEEE Transactions on Neural Networks and Learning Systems*, *ACM Transactions on Intelligent Systems and Technology*, *Neural Networks*, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, *Information Sciences*, NeurIPS (NIPS) 2016 and 2024–2025, IROS 2020, ICRA, ICLR 2025, ICML 2025, *Applied Intelligence*, *IEEE Robotics and Automation Letters*, and *Control and Decision*. He has been recognized as a Top Reviewer by leading AI conferences such as ICML and UAI. He leads projects funded by the National Natural Science Foundation of China, provincial and ministerial programs, and industry partners. His service also includes proposal and thesis reviews and committee roles in the Chinese Association of Automation and CCF-AI. In 2025, his team received an Excellence Award in the inaugural Embodied Intelligence track of the China Innovation and Entrepreneurship Competition, placing among the top 11 of more than 300 teams. His students have earned awards in the Tencent Kaiwu AI National Open Competition, the AAMAS non-perfect-information card-game competition, and the National College Student AI Curling Challenge. He teaches *Information Theory*, *Probabilistic Graphical Models: Theory and Applications*, and *Computer Networks*. Graduates have continued to doctoral study or joined organizations including Alibaba DAMO Academy, DiDi, Huawei, TP-Link, Industrial Bank, and universities.
 
 <section class="profile-section profile-news-section" id="news">
   <h2>News</h2>
@@ -29,100 +17,19 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
     <li class="profile-news-item">
       <div class="profile-news-meta">
         <span class="profile-news-date">{{ item.date }}</span>
-        <span class="profile-news-category">{% if page.url contains '/about-en/' %}{{ item.category_en }}{% else %}{{ item.category_zh }}{% endif %}</span>
+        <span class="profile-news-category">{{ item.category_en }}</span>
       </div>
       <div class="profile-news-content">
         <p class="profile-news-heading">
-          {% if item.url %}<a href="{{ item.url }}">{% endif %}{% if page.url contains '/about-en/' %}{{ item.title_en }}{% else %}{{ item.title_zh }}{% endif %}{% if item.url %}</a>{% endif %}
+          {% if item.url %}<a href="{{ item.url }}">{% endif %}{{ item.title_en }}{% if item.url %}</a>{% endif %}
         </p>
-        <p class="profile-news-summary">{% if page.url contains '/about-en/' %}{{ item.summary_en }}{% else %}{{ item.summary_zh }}{% endif %}</p>
+        <p class="profile-news-summary">{{ item.summary_en }}</p>
       </div>
     </li>
     {% endfor %}
   </ul>
 </section>
 
-  <section class="profile-section">
-    <h2>About</h2>
-    <p>I am an Associate Professor and Ph.D. Supervisor in the Department of Automation, School of Aerospace Engineering, Xiamen University. I was a Visiting Scholar in the Department of Computer Science at the University of California, Los Angeles (UCLA), and I have been recognized as a High-Level Talent of Fujian Province.</p>
-    <p>My research has appeared in leading conferences and journals, including ICML, IJCAI, AAMAS, <em>IEEE Robotics and Automation Letters</em>, <em>Neural Networks</em>, <em>International Journal of Approximate Reasoning</em>, <em>Information Sciences</em>, and <em>Knowledge-Based Systems</em>. The <a href="/publications-en/">publication list</a> provides full citations and publication-status information.</p>
-  </section>
+I welcome motivated master's and Ph.D. students, as well as postdoctoral researchers, interested in reinforcement learning and its applications in embodied intelligence, video games, healthcare, and cybersecurity. My group offers systematic research training and product-level development projects in collaboration with companies. To get in touch, email ylliu@xmu.edu.cn. Please attach your CV directly to the email rather than using a cloud-hosted attachment, which may not preview well on mobile devices.
 
-  <section class="profile-section">
-    <h2>Research Interests</h2>
-    <div class="profile-tags" aria-label="Research interests">
-      <span>Artificial intelligence</span>
-      <span>Deep reinforcement learning</span>
-      <span>Representation learning</span>
-      <span>Sequential decision-making</span>
-      <span>Embodied intelligence</span>
-      <span>Autonomous navigation</span>
-      <span>Healthcare and medical decision-making</span>
-      <span>Traffic signal control</span>
-    </div>
-    <p>My current work studies reinforcement learning theory and methods, including representation learning, reward design, and imitation learning. I apply these methods to navigation, obstacle avoidance, and decision-making in complex and extreme environments.</p>
-  </section>
-
-  <section class="profile-section">
-    <h2>Academic Service</h2>
-    <div class="profile-card-grid">
-      <div class="profile-card">
-        <h3>Program Committees</h3>
-        <ul>
-          <li>IJCAI Program Committee Board member, 2022–2024</li>
-          <li>AAAI: 2019–2025</li>
-          <li>IJCAI: 2017 and 2021–2024</li>
-          <li>UAI: 2021–2025</li>
-          <li>AAMAS: 2020; ICDM: 2024</li>
-        </ul>
-      </div>
-      <div class="profile-card">
-        <h3>Conference and Journal Reviewing</h3>
-        <p><strong>Conferences:</strong> NeurIPS (NIPS) 2016, 2024–2025; IROS 2020; ICRA; ICML 2025; ICLR 2025.</p>
-        <p><strong>Journals:</strong> <em>IEEE Transactions on Cybernetics</em>; <em>IEEE Transactions on Neural Networks and Learning Systems</em>; <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>; <em>ACM Transactions on Intelligent Systems and Technology</em>; <em>Neural Networks</em>; <em>Information Sciences</em>; <em>Applied Intelligence</em>; <em>IEEE Robotics and Automation Letters</em>; and other journals.</p>
-      </div>
-    </div>
-    <p>I have served as a Top Reviewer for leading AI conferences, including ICML and UAI. My other service includes reviewing proposals for the National Natural Science Foundation of China, reviewing theses for the Ministry of Education's Academic Degrees and Graduate Education Development Center, reviewing projects for public and industry organizations in Xiamen, and serving on the Chinese Association of Automation's Technical Committee on Adaptive Dynamic Programming and Reinforcement Learning and the CCF-AI Multi-Agent Systems Group. See my <a href="/service-en/">full academic service record</a>.</p>
-  </section>
-
-  <section class="profile-section">
-    <h2>Selected Awards and Student Achievements</h2>
-    <p>Selected achievements by my students include:</p>
-    <ul class="profile-awards">
-      <li><strong>2025 China Innovation and Entrepreneurship Competition, Embodied Intelligence Track:</strong> Excellence Award in the Startup Group, placing in the top 11 among more than 300 teams.</li>
-      <li><strong>2024 AAMAS non-perfect-information card-game competition:</strong> Runner-up; the team placed fourth in 2023.</li>
-      <li><strong>2024 Tencent Kaiwu AI National Open Competition, Intelligent Traffic Signal Control Final:</strong> 13th place.</li>
-      <li><strong>2023 Tencent Kaiwu AI National Open Competition, Game Algorithm Advanced Track:</strong> Fourth place in the final.</li>
-      <li><strong>2023 National College Student AI Curling Challenge:</strong> First Prize.</li>
-    </ul>
-  </section>
-
-  <section class="profile-section profile-two-column">
-    <div>
-      <h2>Teaching</h2>
-      <p>I teach <em>Information Theory</em>, <em>Probabilistic Graphical Models: Theory and Applications</em>, and <em>Computer Networks</em>.</p>
-    </div>
-    <div>
-      <h2>Students and Alumni</h2>
-      <p>My master's graduates have continued to doctoral study or joined organizations including Alibaba DAMO Academy, DiDi, Huawei, TP-Link, Industrial Bank, and universities.</p>
-      <a class="profile-text-link" href="/students-en/">View student cohorts and alumni destinations →</a>
-    </div>
-  </section>
-
-  <section class="profile-section profile-join">
-    <p class="profile-eyebrow">Prospective graduate students and postdoctoral researchers</p>
-    <h2>Join My Group</h2>
-    <p>I welcome motivated master's and Ph.D. students, as well as postdoctoral researchers, interested in reinforcement learning and its applications in embodied intelligence, video games, healthcare, and cybersecurity. My group combines systematic research training with product-oriented projects involving industry partners.</p>
-    <div class="profile-actions">
-      <a class="profile-button profile-button-primary" href="mailto:ylliu@xmu.edu.cn">Contact me</a>
-      <a class="profile-button" href="/service-en/">Academic service</a>
-    </div>
-    <p class="profile-note">When emailing, please attach your CV directly to the message rather than as a cloud-hosted attachment. Direct attachments are easier to preview on mobile devices.</p>
-  </section>
-
-  <nav class="language-switch" aria-label="Language switch">
-    <a href="/" lang="zh">中文</a>
-    <span aria-hidden="true">/</span>
-    <a href="/about-en/" lang="en" aria-current="page">English</a>
-  </nav>
-</div>
+The lab's research videos are available on [Bilibili](https://space.bilibili.com/1688395866).

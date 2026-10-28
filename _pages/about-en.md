@@ -8,13 +8,7 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
 ---
 
 <div class="english-profile">
-  <nav class="language-switch" aria-label="Language">
-    <a href="/" lang="zh">中文</a>
-    <span aria-hidden="true">/</span>
-    <a href="/about-en/" lang="en" aria-current="page">English</a>
-  </nav>
 
-  
   <header class="profile-hero">
     <p class="profile-eyebrow">Xiamen University · School of Aerospace Engineering</p>
     <p class="profile-role">Associate Professor · Ph.D. Supervisor · Department of Automation</p>
@@ -126,4 +120,9 @@ description: "Yunlong Liu, Associate Professor at Xiamen University. Research in
     <p class="profile-note">When emailing, please attach your CV directly to the message rather than as a cloud-hosted attachment. Direct attachments are easier to preview on mobile devices.</p>
   </section>
 
+  <nav class="language-switch" aria-label="Language switch">
+    <a href="/" lang="zh">中文</a>
+    <span aria-hidden="true">/</span>
+    <a href="/about-en/" lang="en" aria-current="page">English</a>
+  </nav>
 </div>

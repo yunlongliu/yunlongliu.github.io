@@ -2,11 +2,10 @@
 layout: archive
 title: "Academic Service"
 permalink: /service-en/
-author_profile: false
+author: "Yunlong Liu"
+author_profile: true
 classes: english-profile-page
 ---
-
-<div class="language-switch" aria-label="Language"><a href="/service/" lang="zh">中文</a><span aria-hidden="true">/</span><a href="/service-en/" lang="en" aria-current="page">English</a></div>
 
 ## Program Committee Service
 

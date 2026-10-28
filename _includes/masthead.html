@@ -11,17 +11,17 @@
             {% if page.url == '/publications-en/' %}{% assign language_target = '/publications/index.html' %}{% endif %}
             {% if page.url == '/students-en/' %}{% assign language_target = '/students/index.html' %}{% endif %}
             {% if page.url == '/service-en/' %}{% assign language_target = '/service/index.html' %}{% endif %}
-            <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/about-en/">Yunlong Liu</a></li>
+            <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/about-en/index.html">Yunlong Liu</a></li>
             <li class="masthead__menu-item masthead__menu-item--language"><a href="{{ base_path }}{{ language_target }}">中文</a></li>
-            <li class="masthead__menu-item"><a href="{{ base_path }}/about-en/">About</a></li>
-            <li class="masthead__menu-item"><a href="{{ base_path }}/publications-en/">Publications</a></li>
-            <li class="masthead__menu-item"><a href="{{ base_path }}/students-en/">Students</a></li>
-            <li class="masthead__menu-item"><a href="{{ base_path }}/service-en/">Academic Service</a></li>
+            <li class="masthead__menu-item"><a href="{{ base_path }}/about-en/index.html">About</a></li>
+            <li class="masthead__menu-item"><a href="{{ base_path }}/publications-en/index.html">Publications</a></li>
+            <li class="masthead__menu-item"><a href="{{ base_path }}/students-en/index.html">Students</a></li>
+            <li class="masthead__menu-item"><a href="{{ base_path }}/service-en/index.html">Academic Service</a></li>
           {% else %}
             {% assign language_target = '/about-en/' %}
-            {% if page.url == '/publications/' %}{% assign language_target = '/publications-en/' %}{% endif %}
-            {% if page.url == '/students/' %}{% assign language_target = '/students-en/' %}{% endif %}
-            {% if page.url == '/service/' %}{% assign language_target = '/service-en/' %}{% endif %}
+            {% if page.url == '/publications/' %}{% assign language_target = '/publications-en/index.html' %}{% endif %}
+            {% if page.url == '/students/' %}{% assign language_target = '/students-en/index.html' %}{% endif %}
+            {% if page.url == '/service/' %}{% assign language_target = '/service-en/index.html' %}{% endif %}
             <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
             <li class="masthead__menu-item masthead__menu-item--language"><a href="{{ base_path }}{{ language_target }}">English</a></li>
             {% for link in site.data.navigation.main %}

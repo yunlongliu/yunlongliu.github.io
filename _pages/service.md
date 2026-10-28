@@ -8,11 +8,7 @@ author_profile: true
 
 ### 程序委员会委员： 
 * IJCAI Program Committee Board \(2022\-2024\)
-* AAAI 2019,2020,2021,2022,2023、2024、2025
-* IJCAI 2017,2021,2022,2023,2024
-* UAI 2021, 2022,2023,2024、2025
-* AAMAS 2020
-* ICDM 2024
+* 担任 AAAI、IJCAI、UAI、AAMAS、ICDM 等会议程序委员会委员
 
 ### 期刊与会议审稿： 
 * ACM Transactions on Intelligent Systems and Technology
@@ -21,11 +17,10 @@ author_profile: true
 * IEEE Transactions on Cybernetics
 * Neural Networks
 * Information Sciences
-* NeurIPS 2024、2025
-* ICML 2025
-* ICLR 2025
-* NeurIPS (NIPS) 2016
-* IROS 2020、ICRA
+* NeurIPS (NIPS)
+* ICML
+* ICLR
+* IROS、ICRA
 * Applied Intelligence
 * IEEE Robotics and Automation Letters
 * 控制与决策

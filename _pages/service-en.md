@@ -10,15 +10,11 @@ classes: english-profile-page
 ## Program Committee Service
 
 - IJCAI Program Committee Board member (2022–2024)
-- AAAI (2019–2025)
-- IJCAI (2017, 2021–2024)
-- UAI (2021–2025)
-- AAMAS (2020)
-- ICDM (2024)
+- Serve on program committees for AAAI, IJCAI, UAI, AAMAS, and ICDM.
 
 ## Conference and Journal Reviewing
 
-- **Conferences:** NeurIPS (NIPS) (2016, 2024–2025); IROS (2020); ICRA; ICML (2025); ICLR (2025)
+- **Conferences:** NeurIPS (NIPS); IROS; ICRA; ICML; ICLR
 - **Journals:** ACM Transactions on Intelligent Systems and Technology; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Systems, Man, and Cybernetics: Systems; IEEE Transactions on Cybernetics; Neural Networks; Information Sciences; Applied Intelligence; IEEE Robotics and Automation Letters; Control and Decision; Systems Engineering and Electronics; Journal of Xi’an Jiaotong University; Journal of Xiamen University; and others.
 
 ## Student Achievements

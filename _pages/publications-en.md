@@ -13,6 +13,8 @@ An asterisk (*) marks the corresponding author. Underlined names indicate curren
 
 In addition to the publications below, several papers are under review. These papers are led by supervised students as first authors, with Liu as corresponding author. Topics include deep reinforcement learning theory (representation learning, reward design, and imitation learning) and applications in autonomous navigation and obstacle avoidance, medical decision-making, and traffic signal control. Ongoing work focuses on navigation, obstacle avoidance, and landing for autonomous systems—including autonomous vehicles, quadruped robots, and UAVs—in complex and extreme environments.
 
+Research videos are available on the [XMU-DMU Lab YouTube channel](https://www.youtube.com/@XMU-DMU-Lab).
+
 \[29\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong*__. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning. Under review.
 
 \[28\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong*__. A data augmentation-based deep reinforcement learning approach for high-risk states avoidance in sepsis treatment. Applied Intelligence, 56(16), Article 496, 2026. (Chinese Academy of Sciences (CAS) Q3). doi:10.1007/s10489-026-07393-w.

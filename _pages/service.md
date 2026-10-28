@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Service"
+title: "学术服务"
 permalink: /service/
 author_profile: true
 
 ---
 
-### Program committee member: 
+### 程序委员会委员： 
 * IJCAI Program Committee Board \(2022\-2024\)
 * AAAI 2019,2020,2021,2022,2023、2024、2025
 * IJCAI 2017,2021,2022,2023,2024
@@ -14,7 +14,7 @@ author_profile: true
 * AAMAS 2020
 * ICDM 2024
 
-### Reviewer: 
+### 期刊与会议审稿： 
 * ACM Transactions on Intelligent Systems and Technology
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Systems, Man and Cybernetics: Systems

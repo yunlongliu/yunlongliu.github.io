@@ -36,7 +36,7 @@ I teach *Information Theory*, *Probabilistic Graphical Models: Theory and Applic
 
 ## Prospective Students
 
-I welcome motivated master's and Ph.D. students, as well as postdoctoral researchers, interested in reinforcement learning and its applications to embodied intelligence, video games, healthcare, and cybersecurity. My group offers systematic research training and opportunities to contribute to product-oriented projects with industry partners. To get in touch, email ylliu@xmu.edu.cn and attach your CV directly to the message so it can be viewed easily on mobile devices.
+I welcome motivated master's and Ph.D. students, as well as postdoctoral researchers, interested in reinforcement learning and its applications to embodied intelligence, video games, healthcare, and cybersecurity. My group offers systematic research training and opportunities to contribute to product-oriented projects with industry partners. To get in touch, email ylliu [at] xmu [dot] edu [dot] cn and attach your CV directly to the message so it can be viewed easily on mobile devices.
 
 I carefully read every email from prospective applicants. As positions are limited, I prioritize contacting those whose research interests and backgrounds align closely with the group's current needs. If you do not receive a reply, this may be due to research fit or the availability of positions. Thank you for your interest and understanding.
 

@@ -34,6 +34,11 @@ I teach *Information Theory*, *Probabilistic Graphical Models: Theory and Applic
   </ul>
 </section>
 
+## Patent Applications
+
+1. **A Deep Reinforcement Learning-Based Method for Perception, Obstacle Avoidance, and Navigation of Unmanned Systems** (English translation of the Chinese title). Chinese invention patent application No. 202511667278.9; applicant: Xiamen University; entered substantive examination on March 10, 2026 (not granted).
+2. **A Deep Reinforcement Learning-Based Method for Lightweight Obstacle Avoidance and Navigation of Unmanned Systems** (English translation of the Chinese title). Chinese invention patent application No. 202511667281.0; applicant: Xiamen University; published on March 27, 2026 (not granted).
+
 ## Prospective Students
 
 I welcome motivated master's and Ph.D. students, as well as postdoctoral researchers, interested in reinforcement learning and its applications to embodied intelligence, video games, healthcare, and cybersecurity. My group offers systematic research training and opportunities to contribute to product-oriented projects with industry partners. To get in touch, email ylliu [at] xmu [dot] edu [dot] cn and attach your CV directly to the message so it can be viewed easily on mobile devices.

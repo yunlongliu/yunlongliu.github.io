@@ -3,7 +3,7 @@ main:
   - title: "个人主页"
     url: /
 
-  - title: "学术论文"
+  - title: "科研成果"
     url: /publications/index.html
 
   - title: "科研项目"

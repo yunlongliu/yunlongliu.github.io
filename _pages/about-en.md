@@ -34,10 +34,6 @@ I teach *Information Theory*, *Probabilistic Graphical Models: Theory and Applic
   </ul>
 </section>
 
-## Patent Applications
-
-1. **A Deep Reinforcement Learning-Based Method for Perception, Obstacle Avoidance, and Navigation of Unmanned Systems** (English translation of the Chinese title). Chinese invention patent application No. 202511667278.9; applicant: Xiamen University; entered substantive examination on March 10, 2026 (not granted).
-2. **A Deep Reinforcement Learning-Based Method for Lightweight Obstacle Avoidance and Navigation of Unmanned Systems** (English translation of the Chinese title). Chinese invention patent application No. 202511667281.0; applicant: Xiamen University; published and entered substantive examination on March 27, 2026 (not granted).
 
 ## Prospective Students
 

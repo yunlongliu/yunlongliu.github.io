@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "学术论文"
+title: "科研成果"
 permalink: /publications/
 author_profile: true
 
 ---
+
+## 学术论文
 
 ### 代表性论文： (2014–2026；标“\*”为通讯作者，下划线表示本人指导或曾指导的研究生)
 除下列论文外，目前*在投*多篇高水平论文（均为指导学生为第一作者、本人为通讯作者），内容涵盖深度强化学习理论（表征学习、奖励函数设计、模仿学习等内容）及在复杂场景下无人系统导航、避障、医疗决策、交通信号灯控制中的应用。通过解决实际问题倒逼技术迭代与产品升级，使研发投入转化为可落地的商业价值，课题组后续研究重点聚焦复杂动态场景、极端环境下无人系统（含无人车、四足狗、无人机）导航、避障、降落等，真车验证视频请参考实验室bilibili主页。
@@ -66,3 +68,9 @@ author_profile: true
 \[2\] __Liu Yunlong\*__, <u>Tang Yun</u>, Zeng Yifeng\. Predictive State Representations with State Space Partitioning\. Proceedings of the 14th International Conference on Autonomous Agents and Multiagent Systems(AAMAS 2015), 1259-1266, 2015\. \(CCF B类会议, Full/oral paper\)
 
 \[1\] __Liu Yunlong__, Yang Zijiang, Ji Guoli\. Solving Partially Observable Problems with Inaccurate PSR Models\. Information Sciences, 283:142-152, 2014\. \(CCF B类期刊, 中科院二区\)
+
+## 发明专利申请
+
+1. **一种基于深度强化学习的无人系统感知、避障与导航方法**。中国发明专利申请，申请号：**202511667278.9**；申请人：厦门大学；**2026年3月10日进入实质审查阶段**（尚未授权）。
+2. **一种基于深度强化学习的无人系统轻量化避障与导航方法**。中国发明专利申请，申请号：**202511667281.0**；申请人：厦门大学；**2026年3月27日公布并进入实质审查阶段**（尚未授权）。
+

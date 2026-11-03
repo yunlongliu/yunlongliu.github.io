@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research Outputs"
 permalink: /publications-en/
 author: "Yunlong Liu"
 author_profile: true
 classes: english-profile-page
 ---
+
+## Publications
 
 ### Selected Publications (2014–2026)
 
@@ -72,3 +74,9 @@ Research videos are available on the [XMU-DMU Lab YouTube channel](https://www.y
 \[2\] __Liu Yunlong*__, <u>Tang Yun</u>, Zeng Yifeng. Predictive State Representations with State Space Partitioning. Proceedings of the 14th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2015), 1259–1266, 2015. (CCF B; full/oral paper).
 
 \[1\] __Liu Yunlong*__, Yang Zijiang, Ji Guoli. Solving Partially Observable Problems with Inaccurate PSR Models. Information Sciences, 283:142–152, 2014. (CCF B journal; CAS Q2).
+
+## Patent Applications
+
+1. **A Deep Reinforcement Learning-Based Method for Perception, Obstacle Avoidance, and Navigation of Unmanned Systems** (English translation of the Chinese title). Chinese invention patent application **No. 202511667278.9**; applicant: Xiamen University; **entered substantive examination on March 10, 2026** (not granted).
+2. **A Deep Reinforcement Learning-Based Method for Lightweight Obstacle Avoidance and Navigation of Unmanned Systems** (English translation of the Chinese title). Chinese invention patent application **No. 202511667281.0**; applicant: Xiamen University; **published and entered substantive examination on March 27, 2026** (not granted).
+

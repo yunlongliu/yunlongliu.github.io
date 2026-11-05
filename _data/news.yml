@@ -1,4 +1,12 @@
 - date: "2026"
+  category_zh: "论文录用"
+  category_en: "Paper Acceptance"
+  title_zh: "ProtoLight：基于原型表示学习与元强化学习的交通信号控制泛化方法"
+  title_en: "ProtoLight: A Method for Generalization of Traffic Signal Control with Prototypical Representation Learning and Meta-Reinforcement Learning"
+  summary_zh: "论文已被 IEEE Transactions on Intelligent Transportation Systems 接收为 Regular Paper，将发表于 IEEE Xplore 和期刊印刷版。"
+  summary_en: "Accepted as a Regular Paper in IEEE Transactions on Intelligent Transportation Systems; to be published in IEEE Xplore and the print edition."
+
+- date: "2026"
   category_zh: "论文发表"
   category_en: "Publication"
   title_zh: "Task-Aware Exploration via a Predictive Bisimulation Metric"

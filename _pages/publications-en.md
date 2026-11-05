@@ -17,7 +17,7 @@ In addition to the publications below, several papers are under review. These pa
 
 Research videos are available on the [XMU-DMU Lab YouTube channel](https://www.youtube.com/@XMU-DMU-Lab).
 
-\[30\] Gong Chenxi, <u>Liu Ruihan</u>, <u>Liang Dayang</u>, __Liu Yunlong*__. ProtoLight: A Method for Generalization of Traffic Signal Control with Prototypical Representation Learning and Meta Reinforcement Learning. Accepted for publication as a Regular Paper in IEEE Transactions on Intelligent Transportation Systems, 2026.
+\[30\] <u>Gong Chenxi</u>, <u>Liu Ruihan</u>, <u>Liang Dayang</u>, __Liu Yunlong*__. ProtoLight: A Method for Generalization of Traffic Signal Control with Prototypical Representation Learning and Meta Reinforcement Learning. Accepted for publication as a Regular Paper in IEEE Transactions on Intelligent Transportation Systems, 2026.
 
 \[29\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong*__. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning. Under review.
 

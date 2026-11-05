@@ -17,6 +17,8 @@ In addition to the publications below, several papers are under review. These pa
 
 Research videos are available on the [XMU-DMU Lab YouTube channel](https://www.youtube.com/@XMU-DMU-Lab).
 
+\[30\] Gong Chenxi, <u>Liu Ruihan</u>, <u>Liang Dayang</u>, __Liu Yunlong*__. ProtoLight: A Method for Generalization of Traffic Signal Control with Prototypical Representation Learning and Meta Reinforcement Learning. Accepted for publication as a Regular Paper in IEEE Transactions on Intelligent Transportation Systems, 2026.
+
 \[29\] <u>Liang Dayang</u>, <u>Lai Jinyang</u>, __Liu Yunlong*__. Intrinsic Dynamic-Driven Representation Learning for Generalization in Visual Reinforcement Learning. Under review.
 
 \[28\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong*__. A data augmentation-based deep reinforcement learning approach for high-risk states avoidance in sepsis treatment. Applied Intelligence, 56(16), Article 496, 2026. (Chinese Academy of Sciences (CAS) Q3). doi:10.1007/s10489-026-07393-w.

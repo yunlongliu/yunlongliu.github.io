@@ -17,7 +17,7 @@ author_profile: true
 
 \[28\] <u>Zhang Qiwei</u>, Lin Bin, __Liu Yunlong\*__\. A data augmentation-based deep reinforcement learning approach for high-risk states avoidance in sepsis treatment\. Applied Intelligence, 56(16), Article 496, 2026. (中科院三区). doi:10.1007/s10489-026-07393-w. 
 
-\[27\] <u>Liang Dayang</u>, Liu Ruihan, Wan Lipeng, __Liu Yunlong\*__, An Bo. Task-Aware Exploration via a Predictive Bisimulation Metric\. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306:73336–73355, 2026. (机器学习领域顶会，CCF A类).
+\[27\] <u>Liang Dayang</u>, <u>Liu Ruihan</u>, Wan Lipeng, __Liu Yunlong\*__, An Bo. Task-Aware Exploration via a Predictive Bisimulation Metric\. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306:73336–73355, 2026. (机器学习领域顶会，CCF A类).
 
 \[26\] <u>Jiang Zejie</u>, <u>Lai Jinyang</u>, __Liu Yunlong\*__\. BEV-OSP: Obstacle State Prediction in Bird’s-Eye View to Enable Obstacle Avoidance and Navigation in Dynamic Environments\. IEEE Robotics and Automation Letters, 11(7):7924–7931, 2026. (机器人领域顶刊，中科院二区). doi:10.1109/LRA.2026.3692074.
 
